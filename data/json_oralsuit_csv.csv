@@ -1,0 +1,1001 @@
+idClinicalCase,companyNameId,dentistNameId,patientNameId,workClass,teethWork,toothColor,colorGuide,hasAntagonist,observations,entryDate,testDate,finalDeliveryDate,noDeliveryDate
+1,Dr. Camilo Gaviria,Laura Ospina,Sofía Ramírez,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,False,Paciente sensible.,2024-12-02,2024-12-05,2024-12-11,False
+2,Dra. Sara Jaramillo,Pedro Sánchez,Samuel Bustamante,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Alta estética.,2025-01-07,2025-01-16,,True
+3,Jorge Alberto Ruiz,Gabriela Rojas,Simón Orozco,Corona Totalmente Ceramica,46,D2,Biodent,True,Alta estética.,2024-09-27,2024-10-05,,True
+4,Sonrisas Saludables,Carolina Mesa,Sara Victoria Tamayo,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Alta estética.,2024-10-23,2024-10-30,,True
+5,Dr. Fernando Quintero,Santiago Rojas,Sara Victoria Tamayo,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Requiere ajuste.,2025-04-27,2025-05-04,2025-05-06,False
+6,Maxilofacial & Implantes,Lorena Henao,Santiago Pérez,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Requiere ajuste.,2024-09-11,2024-09-12,,True
+7,Clínica Dental Armonía,Diana Marcela Ríos,Laura Giraldo,Corona sobre Implante con T-base,"14, 40",B4,Biodent,True,Requiere ajuste.,2025-01-19,2025-01-25,2025-01-26,False
+8,Clínica Dental Familias,Andrea Carolina Mesa,Julian Alberto Cano,Placa de Bruxismo,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2025-03-28,2025-03-31,,True
+9,Andrea Carolina Mesa,Andrés Felipe Castro,Juan Pablo Arias,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Paciente sensible.,2025-02-02,2025-02-04,2025-02-07,False
+10,Salud Dental Familiar,José Luis Cardona,Laura Giraldo,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,True,Paciente sensible.,2024-10-31,2024-11-08,,True
+11,Clínica Dental del Centro,Daniela Marín,Manuela Cárdenas,Corona Totalmente Ceramica,"45, 11, 21",D2,Vitapan,False,Paciente sensible.,2025-01-07,2025-01-09,,True
+12,Maxilofacial & Implantes,María Fernanda Ortiz,Carolina Rivera,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-04-09,2025-04-13,,True
+13,Natalia Soto,Sara Jaramillo,Arturo Montoya,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Alta estética.,2025-01-04,2025-01-13,2025-01-17,False
+14,Dr. Juan Pablo Gómez,Camilo Gaviria,José Miguel Soto,Hyrax,Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-05-24,2025-05-29,2025-05-30,False
+15,Centro Estético Dental,Carolina Mesa,Camila Montoya,Corona Totalmente Ceramica,"36, 34, 11, 22",B3,Biodent,True,Revisar oclusión.,2025-01-22,2025-01-24,2025-01-29,False
+16,Clínica Dental Nova,Valeria Duque,Ana Sofía Correa,Provisional,"15, 48, 14, 40",OM2,Biodent,True,Requiere ajuste.,2024-07-14,2024-07-16,,True
+17,Oral Health Solutions,Valentina Cano,Juan Pablo Arias,Corona sobre Implante con T-base,17,OM3,Biodent,False,Procedimiento rutinario.,2025-02-16,2025-02-22,,True
+18,Odontopediatría Integral,Andrea Carolina Mesa,Isabella Mejía,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-12-07,2024-12-08,,True
+19,Luisa Fernanda Díaz,Mauricio Rodriguez,Gabriela Morales,Perno,29,N/A,N/A,False,Revisar oclusión.,2024-07-09,2024-07-16,,True
+20,Luisa Fernanda Díaz,Andrés Felipe Castro,Mariana Vélez,Provisional,18,BL1,Duratone,True,Procedimiento rutinario.,2025-01-13,2025-01-21,2025-01-24,False
+21,OdontoKids,Andrea Carolina Mesa,Mateo Giraldo,Placa de Bruxismo,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-01-09,2025-01-15,2025-01-17,False
+22,Salud Dental Familiar,Ana María Pérez,Mariana Vélez,Corona sobre Implante con Pilar Personalizado,"29, 46",BL4,Duratone,False,Alta estética.,2024-07-27,2024-08-06,2024-08-13,False
+23,Centro Odontológico Integral,Juan Pablo Gómez,Laura Giraldo,Placa de Bruxismo,Inferior,N/A,N/A,False,Requiere ajuste.,2024-09-17,2024-09-23,2024-09-25,False
+24,Dr. Fernando Quintero,Natalia Soto,Mateo Giraldo,Corona sobre Implante con Pilar Titanio,"42, 26, 22, 41",B4,Biodent,False,Revisar oclusión.,2024-12-13,2024-12-23,,True
+25,Sonrisas Saludables,Valentina Cano,Catalina Rendón,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Alta estética.,2025-01-12,2025-01-20,,True
+26,Andrea Carolina Mesa,Andrea Giraldo,Juan David Restrepo,Protesis Removible,"17, 30",B2,Biodent,False,Procedimiento rutinario.,2024-07-20,2024-07-27,2024-08-03,False
+27,Andrea Carolina Mesa,David Ospina,Mariana Vélez,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2024-08-07,2024-08-09,2024-08-13,False
+28,Clínica Odontológica del Sur,Roberto Morales,Julian Alberto Cano,Hyrax,Superior,N/A,N/A,True,Requiere ajuste.,2024-06-12,2024-06-13,2024-06-15,False
+29,Dr. Camilo Gaviria,Santiago Rojas,Paulina Alzate,Corona sobre Implante con Pilar Titanio,"15, 23",A3,Duratone,True,Revisar oclusión.,2024-10-15,2024-10-24,2024-10-25,False
+30,VitalDent,Miguel Ángel Sierra,Mariana Vélez,Placa de Bruxismo,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-09-03,2024-09-10,,True
+31,Dr. Fernando Quintero,Carolina Mesa,Esteban Saldarriaga,Perno,"11, 19, 46, 23",N/A,N/A,True,Requiere ajuste.,2025-03-19,2025-03-29,,True
+32,Dr. Camilo Gaviria,Miguel Ángel Sierra,Cristian Bermúdez,Provisional,"23, 15, 26",C3,Biodent,True,Alta estética.,2024-12-17,2024-12-24,2024-12-28,False
+33,Clínica Dental Nova,Natalia Soto,Samuel Bustamante,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Alta estética.,2025-05-03,2025-05-12,,True
+34,Luisa Fernanda Díaz,Andrés Felipe Castro,Paula Andrea Díaz,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-07-07,2024-07-11,2024-07-12,False
+35,Odontopediatría Integral,Andrea Carolina Mesa,Victoria Suárez,Perno,11,N/A,N/A,True,Procedimiento rutinario.,2024-10-16,2024-10-24,,True
+36,Oral Health Solutions,Carlos López,Luisa Fernanda Echeverri,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,False,Paciente sensible.,2024-08-04,2024-08-10,2024-08-15,False
+37,Centro Estético Dental,María Fernanda Ortiz,Valeria Alejandra Gil,Corona sobre Implante con Pilar Personalizado,43,BL3,Vitapan,True,Paciente sensible.,2024-11-30,2024-12-03,,True
+38,Salud Dental Familiar,Esteban Zuluaga,Juan Camilo Botero,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-02-05,2025-02-06,2025-02-11,False
+39,Dra. Clara Inés Duque,Fernando Quintero,Juan Camilo Botero,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2024-07-04,2024-07-05,,True
+40,Natalia Soto,Natalia Soto,Ricardo Alfonso Hoyos,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-12-09,2024-12-12,2024-12-15,False
+41,Clínica Dental Familias,Carolina Mesa,José Miguel Soto,Placa de Bruxismo,Inferior,N/A,N/A,False,Requiere ajuste.,2024-07-22,2024-07-23,,True
+42,Clínica Dental Nova,Liliana Cifuentes,Juan David Restrepo,Placa Estetica,"34, 26, 15",B4,Vitapan,True,Alta estética.,2024-08-16,2024-08-19,,True
+43,Sonrisas Saludables,Liliana Cifuentes,Andrés Felipe Marulanda,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-05-16,2025-05-18,2025-05-25,False
+44,Mariana Vélez,Daniela Marín,José Miguel Soto,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Alta estética.,2024-09-27,2024-10-07,2024-10-09,False
+45,VitalDent,Ana María Pérez,Martín Quintero,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Alta estética.,2024-07-01,2024-07-02,,True
+46,Salud Dental Familiar,Sofía Vargas,Camila Montoya,Corona sobre Implante con Pilar Titanio,27,BL2,Biodent,False,Revisar oclusión.,2025-03-18,2025-03-23,,True
+47,Oral Health Solutions,Lorena Henao,Cristian Bermúdez,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-09-07,2024-09-13,2024-09-16,False
+48,Clínica Odontológica del Sur,Santiago Rojas,Valentina Ospina,Placa Estetica,"11, 11, 14, 16",OM1,Vitapan,True,Paciente sensible.,2025-03-09,2025-03-15,,True
+49,Dra. Liliana Cifuentes,Sara Jaramillo,Andrés Felipe Marulanda,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Paciente sensible.,2025-03-09,2025-03-13,2025-03-17,False
+50,Mariana Vélez,Andrea Giraldo,Santiago Pérez,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-05-04,2025-05-10,,True
+51,Smile Design Center,Mateo Vargas,Mateo Giraldo,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Alta estética.,2025-02-10,2025-02-14,,True
+52,Estética Dental Premium,Sofía Vargas,Paulina Alzate,Corona Metal Ceramica,"33, 42, 39, 14",A1,Biodent,False,Revisar oclusión.,2024-06-03,2024-06-13,2024-06-14,False
+53,Dra. Sofía Vargas,Esteban Zuluaga,Natalia Andrea Vélez,Corona sobre Implante con Pilar Personalizado,11,BL3,Vita 3D Master,False,Procedimiento rutinario.,2025-03-14,2025-03-17,,True
+54,Dra. Sara Jaramillo,Camilo Torres,Laura Giraldo,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Requiere ajuste.,2024-10-11,2024-10-12,,True
+55,Dra. Clara Inés Duque,Mariana Vélez,Sofía Ramírez,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-07-09,2024-07-10,,True
+56,Dental Kids,Isabella Sierra,Paula Andrea Díaz,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Revisar oclusión.,2024-08-28,2024-09-04,2024-09-05,False
+57,Sonrisas Sanas,Mateo Vargas,Daniel Alzate,Corona sobre Implante con Pilar Titanio,47,BL2,Biodent,True,Requiere ajuste.,2024-10-10,2024-10-12,2024-10-16,False
+58,Sonrisas Saludables,Santiago Rojas,Esteban Saldarriaga,Corona Totalmente Ceramica,"40, 30, 24",C4,Biodent,True,Procedimiento rutinario.,2024-06-26,2024-07-01,2024-07-08,False
+59,Andrea Carolina Mesa,Mariana Vélez,Catalina Rendón,Corona Totalmente Ceramica,40,A3.5,Vita 3D Master,False,Requiere ajuste.,2024-08-23,2024-09-01,,True
+60,Clínica Dental Nova,Juan Pablo Gómez,Mateo Giraldo,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-10-15,2024-10-23,2024-10-25,False
+61,Dra. Clara Inés Duque,Felipe Montoya,Alejandro Herrera,Provisional,"16, 24",B4,Vita 3D Master,True,Revisar oclusión.,2024-10-10,2024-10-14,,True
+62,Dr. Alejandro Vélez,Felipe Montoya,Paulina Alzate,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-10-14,2024-10-24,2024-10-31,False
+63,David Ospina,Andrea Carolina Mesa,Luisa Fernanda Echeverri,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,True,Requiere ajuste.,2024-11-02,2024-11-12,2024-11-17,False
+64,Oral Health Solutions,Paula Andrea Morales,Natalia Andrea Vélez,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-07-04,2024-07-10,2024-07-11,False
+65,Centro Odontológico Integral,Fernando Quintero,Victoria Suárez,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-10-27,2024-11-01,,True
+66,Dr. Miguel Ángel Sierra,Fernando Quintero,José Miguel Soto,Corona sobre Implante con Pilar Titanio,"45, 25, 35, 13",B4,Duratone,True,Paciente sensible.,2024-09-01,2024-09-03,2024-09-07,False
+67,Sebastián Alzate,Mauricio Restrepo,Sebastián Duque,Placa de Bruxismo,Superior,N/A,N/A,False,Paciente sensible.,2025-04-07,2025-04-13,2025-04-15,False
+68,Dr. Camilo Gaviria,Juan Felipe Restrepo,Paulina Alzate,Hyrax,Superior,N/A,N/A,False,Procedimiento rutinario.,2024-06-20,2024-06-30,,True
+69,Dr. Miguel Ángel Sierra,Valentina Cano,Catalina Rendón,Corona Metal Ceramica,42,A4,Biodent,True,Revisar oclusión.,2024-09-03,2024-09-08,2024-09-13,False
+70,Implantes Dentales Medellín,José Luis Cardona,Alejandro Herrera,Corona sobre Implante con T-base,"43, 15, 37, 26",BL3,Vitapan,True,Requiere ajuste.,2025-05-05,2025-05-13,,True
+71,Dr. Juan Pablo Gómez,Juan Pablo Gómez,Paula Andrea Díaz,Protesis Removible,"39, 14, 24",C2,Duratone,True,Revisar oclusión.,2024-09-24,2024-09-30,,True
+72,Dra. Liliana Cifuentes,Juan José Correa,Natalia Andrea Vélez,Corona sobre Implante con Pilar Titanio,"21, 11, 11",B1,Duratone,True,Paciente sensible.,2024-11-16,2024-11-17,2024-11-24,False
+73,Dr. Juan Pablo Gómez,Santiago Rojas,Simón Orozco,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-08-22,2024-08-31,2024-09-03,False
+74,Maxilofacial & Implantes,Sara Jaramillo,Arturo Montoya,Placa de Bruxismo,Inferior,N/A,N/A,True,Alta estética.,2025-02-21,2025-02-24,2025-03-02,False
+75,Dr. Miguel Ángel Sierra,Daniela Marín,Samuel Bustamante,Placa de Bruxismo,Superior,N/A,N/A,True,Alta estética.,2025-04-22,2025-04-24,2025-04-29,False
+76,Mariana Vélez,Roberto Morales,Silvana Restrepo,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Paciente sensible.,2025-04-15,2025-04-17,,True
+77,Dr. Fernando Quintero,Mateo Vargas,Alejandro Herrera,Hyrax,Superior e Inferior,N/A,N/A,True,Alta estética.,2025-02-16,2025-02-23,,True
+78,Salud Oral Integral,Carolina Mesa,Sofía Ramírez,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-12-26,2024-12-31,2025-01-06,False
+79,Luisa Fernanda Díaz,Liliana Cifuentes,Paula Andrea Díaz,Provisional,"38, 21",A1,Vitapan,True,Procedimiento rutinario.,2025-05-23,2025-05-25,,True
+80,Salud Dental Familiar,Lorena Henao,Catalina Rendón,Placa Estetica,"27, 16",BL3,Vitapan,False,Alta estética.,2025-02-16,2025-02-17,2025-02-24,False
+81,OdontoKids,Valentina Cano,Sara Victoria Tamayo,Perno,"42, 16",N/A,N/A,True,Revisar oclusión.,2024-08-15,2024-08-23,,True
+82,Dr. Alejandro Vélez,Sofía Vargas,Miguel Ángel Tobón,Hyrax,Inferior,N/A,N/A,True,Revisar oclusión.,2024-07-26,2024-07-29,,True
+83,Dr. Alejandro Vélez,Camilo Gaviria,Valeria López,Corona Metal Ceramica,28,BL2,Vitapan,False,Revisar oclusión.,2024-10-14,2024-10-18,,True
+84,Maxilofacial & Implantes,David Ospina,Carolina Rivera,Corona sobre Implante con T-base,"23, 48, 42, 48",A4,Biodent,False,Revisar oclusión.,2025-04-20,2025-04-27,2025-04-30,False
+85,Dra. Sara Jaramillo,Diego Salazar,Gabriela Morales,Corona Totalmente Ceramica,"42, 15",OM3,Duratone,False,Alta estética.,2025-02-10,2025-02-15,2025-02-19,False
+86,Salud Dental Familiar,Clara Inés Duque,Santiago Pérez,Corona sobre Implante con Pilar Titanio,30,C3,Duratone,True,Paciente sensible.,2024-10-27,2024-11-04,2024-11-10,False
+87,VitalDent,Martín Valencia,Alejandro Herrera,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Alta estética.,2024-11-16,2024-11-23,,True
+88,Clínica Dental Sonríe,Mariana Vélez,Laura Cristina Jaramillo,Corona Metal Ceramica,19,C2,Duratone,True,Procedimiento rutinario.,2025-05-09,2025-05-14,,True
+89,Ortodoncia Plus,Luisa Fernanda Díaz,Ricardo Alfonso Hoyos,Corona sobre Implante con Pilar Titanio,"28, 29, 35, 47",OM3,Vita 3D Master,True,Procedimiento rutinario.,2025-02-12,2025-02-16,,True
+90,Smile Design Center,Gabriela Rojas,Alejandro Herrera,Corona Totalmente Ceramica,"17, 31",C2,Duratone,False,Alta estética.,2025-05-04,2025-05-09,,True
+91,Clínica Dental Armonía,José Luis Cardona,Miguel Ángel Tobón,Provisional,"40, 48",C3,Vitapan,True,Paciente sensible.,2025-05-07,2025-05-10,2025-05-16,False
+92,Sebastián Alzate,Felipe Montoya,Simón Orozco,Provisional,"39, 24, 35",D3,Biodent,True,Paciente sensible.,2024-06-12,2024-06-21,2024-06-25,False
+93,Clínica Dental Familias,Juan Pablo Gómez,Catalina Rendón,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-05-13,2025-05-23,,True
+94,Maxilofacial & Implantes,Camilo Gaviria,Luisa Fernanda Echeverri,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-09-03,2024-09-13,2024-09-19,False
+95,Dra. Clara Inés Duque,Sara Jaramillo,Santiago Pérez,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2025-05-29,2025-06-04,,True
+96,Clínica Dental Familias,Roberto Morales,Julian Alberto Cano,Corona sobre Implante con T-base,"29, 26, 24, 11",OM1,Biodent,True,Paciente sensible.,2024-10-06,2024-10-07,2024-10-11,False
+97,Oral Health Solutions,Ricardo Pérez,Sebastián Duque,Guia Quirurgica,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-12-08,2024-12-15,,True
+98,Dental Kids,Elena Gómez,Camila Montoya,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,False,Procedimiento rutinario.,2025-02-26,2025-02-28,,True
+99,Luisa Fernanda Díaz,Pedro Sánchez,Carlos Andrés Ruiz,Corona sobre Implante con Pilar Titanio,"33, 39, 40, 36",A3,Vitapan,True,Procedimiento rutinario.,2025-05-02,2025-05-05,,True
+100,Clínica Dental Sonríe,Lorena Henao,Andrés Felipe Marulanda,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Alta estética.,2025-01-17,2025-01-20,,True
+101,Clínica Dental Bienestar,Miguel Ángel Sierra,Manuela Cárdenas,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Alta estética.,2025-04-16,2025-04-23,,True
+102,Jorge Alberto Ruiz,Juan Pablo Gómez,Valeria López,Corona sobre Implante con Pilar Personalizado,11,BL3,Vitapan,True,Requiere ajuste.,2024-08-15,2024-08-18,,True
+103,Dra. Liliana Cifuentes,Andrés Felipe Castro,Ana Sofía Correa,Protesis Removible,24,A1,Vitapan,False,Requiere ajuste.,2025-04-16,2025-04-26,2025-04-27,False
+104,Clínica Dental del Centro,Sara Jaramillo,Simón Orozco,Corona sobre Implante con Pilar Personalizado,"14, 46",C4,Duratone,False,Alta estética.,2024-10-21,2024-10-31,,True
+105,Clínica Odontológica del Sur,Sebastián Alzate,Juan Pablo Arias,Protesis Removible,"29, 47, 17",OM2,Duratone,True,Procedimiento rutinario.,2024-10-09,2024-10-10,,True
+106,Dra. Clara Inés Duque,Pablo Escobar,Luisa Fernanda Echeverri,Hyrax,Inferior,N/A,N/A,False,Paciente sensible.,2025-03-28,2025-04-04,,True
+107,Dr. Mauricio Restrepo,Juan José Correa,José Miguel Soto,Provisional,40,B3,Vita 3D Master,False,Paciente sensible.,2024-06-23,2024-06-29,,True
+108,Clínica Dental Nova,Mauricio Rodriguez,Julian Alberto Cano,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,False,Alta estética.,2025-03-10,2025-03-11,2025-03-13,False
+109,Pedro Sánchez,Valeria Duque,Simón Orozco,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-03-14,2025-03-18,2025-03-25,False
+110,Dr. Fernando Quintero,Gabriela Rojas,Daniela Valencia,Hyrax,Superior,N/A,N/A,True,Alta estética.,2025-03-16,2025-03-19,,True
+111,Smile Design Center,Camilo Gaviria,Natalia Andrea Vélez,Guia Quirurgica,Superior,N/A,N/A,True,Procedimiento rutinario.,2024-06-23,2024-06-29,2024-07-05,False
+112,Dra. Clara Inés Duque,Carolina Mesa,Lucía Osorio,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-05-11,2025-05-12,,True
+113,Estética Dental Premium,Diego Salazar,Emmanuel Franco,Corona sobre Implante con Pilar Titanio,20,C1,Vita 3D Master,False,Paciente sensible.,2025-01-07,2025-01-14,2025-01-15,False
+114,Implantes Dentales Medellín,Carlos López,Esteban Saldarriaga,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,True,Alta estética.,2024-07-14,2024-07-18,2024-07-23,False
+115,Dra. Sofía Vargas,Carlos López,Natalia Andrea Vélez,Placa de Bruxismo,Inferior,N/A,N/A,True,Revisar oclusión.,2024-06-07,2024-06-15,2024-06-19,False
+116,Dra. Sara Jaramillo,Valeria Duque,Ana Sofía Correa,Placa de Bruxismo,Inferior,N/A,N/A,False,Paciente sensible.,2025-01-10,2025-01-19,2025-01-22,False
+117,Maxilofacial & Implantes,Felipe Montoya,Ana Sofía Correa,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-10-18,2024-10-22,2024-10-27,False
+118,Maxilofacial & Implantes,Roberto Morales,Mariana Vélez,Protesis Removible,"11, 18, 11, 47",C4,Vita 3D Master,True,Revisar oclusión.,2024-11-25,2024-12-03,2024-12-08,False
+119,Natalia Soto,Roberto Morales,Esteban Saldarriaga,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Paciente sensible.,2025-03-13,2025-03-14,2025-03-21,False
+120,Pedro Sánchez,Isabella Sierra,Diego Alejandro Sierra,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-05-29,2025-06-07,2025-06-09,False
+121,Maxilofacial & Implantes,Luisa Fernanda Díaz,José Miguel Soto,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,True,Alta estética.,2025-04-04,2025-04-05,2025-04-08,False
+122,Dental Kids,Liliana Cifuentes,David Zuluaga,Placa de Bruxismo,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-05-08,2025-05-18,2025-05-23,False
+123,Centro Odontológico Integral,Luisa Fernanda Díaz,Samuel Bustamante,Corona Totalmente Ceramica,"41, 17, 33, 14",D4,Vitapan,False,Procedimiento rutinario.,2025-03-23,2025-03-26,2025-04-02,False
+124,Odontología Estética,Pedro Sánchez,Simón Orozco,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Paciente sensible.,2024-08-18,2024-08-19,,True
+125,Clínica Dental Familias,Mariana Vélez,Isabella Mejía,Perno,"13, 30",N/A,N/A,False,Revisar oclusión.,2025-01-27,2025-02-05,2025-02-07,False
+126,Luisa Fernanda Díaz,Laura Ospina,Andrés Felipe Marulanda,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Paciente sensible.,2025-01-07,2025-01-13,2025-01-14,False
+127,Clínica Dental Nova,Sara Jaramillo,Andrés Felipe Marulanda,Corona sobre Implante con Pilar Personalizado,"46, 11, 24, 48",C1,Biodent,True,Requiere ajuste.,2025-01-02,2025-01-03,,True
+128,Luisa Fernanda Díaz,Camilo Torres,Paula Andrea Díaz,Corona sobre Implante con Pilar Titanio,"16, 38, 16",A3,Vita 3D Master,False,Revisar oclusión.,2025-02-01,2025-02-03,2025-02-05,False
+129,Oral Health Solutions,Carolina Mesa,Esteban Saldarriaga,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Requiere ajuste.,2024-06-02,2024-06-03,,True
+130,DentistPro,Javier Restrepo,Victoria Suárez,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Requiere ajuste.,2024-11-13,2024-11-23,2024-11-27,False
+131,Salud Dental Familiar,Gabriela Rojas,Felipe Marín,Protesis Removible,19,BL2,Vita 3D Master,False,Revisar oclusión.,2024-07-16,2024-07-19,2024-07-23,False
+132,Dr. Miguel Ángel Sierra,Roberto Morales,Juan Pablo Arias,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,True,Procedimiento rutinario.,2024-08-26,2024-09-01,2024-09-05,False
+133,Odontopediatría Integral,Carolina Mesa,Ana Sofía Correa,Corona sobre Implante con Pilar Titanio,"14, 31",C4,Vita 3D Master,False,Requiere ajuste.,2025-02-21,2025-02-25,2025-03-01,False
+134,Dr. Fernando Quintero,Camilo Torres,Ana Sofía Correa,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Requiere ajuste.,2025-01-30,2025-02-07,,True
+135,Odonto Sonrisa,Patricia Acevedo,Catalina Rendón,Hyrax,Inferior,N/A,N/A,True,Paciente sensible.,2024-09-01,2024-09-05,,True
+136,David Ospina,Jorge Alberto Ruiz,Luisa Fernanda Echeverri,Provisional,"36, 25, 26",D3,Vitapan,True,Revisar oclusión.,2024-06-12,2024-06-19,,True
+137,Sonrisas Brillantes,Andrés Felipe Castro,Ricardo Alfonso Hoyos,Provisional,"25, 17, 37, 27",A3.5,Duratone,False,Alta estética.,2024-09-25,2024-10-01,2024-10-06,False
+138,Dr. Camilo Gaviria,Esteban Zuluaga,Alejandro Herrera,Hyrax,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-12-23,2024-12-30,2025-01-03,False
+139,Clínica Dental Nova,Carlos López,Angie Paola Vargas,Hyrax,Superior,N/A,N/A,True,Procedimiento rutinario.,2024-06-30,2024-07-10,,True
+140,Odonto Sonrisa,Camilo Torres,Esteban Saldarriaga,Corona sobre Implante con T-base,"44, 44",BL4,Duratone,False,Procedimiento rutinario.,2025-03-15,2025-03-20,,True
+141,Dr. Juan Pablo Gómez,Liliana Cifuentes,Valeria Alejandra Gil,Provisional,"45, 19, 26",C2,Vitapan,False,Revisar oclusión.,2025-01-13,2025-01-21,2025-01-27,False
+142,Dental Excellence,Andrés Felipe Castro,Valeria Alejandra Gil,Guia Quirurgica,Inferior,N/A,N/A,False,Revisar oclusión.,2024-09-14,2024-09-19,2024-09-22,False
+143,Luisa Fernanda Díaz,Felipe Montoya,Laura Giraldo,Protesis Removible,38,A4,Duratone,False,Procedimiento rutinario.,2025-04-06,2025-04-10,2025-04-15,False
+144,Pedro Sánchez,Diana Marcela Ríos,Laura Cristina Jaramillo,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-03-11,2025-03-12,,True
+145,Dental Kids,Valeria Duque,Valeria Alejandra Gil,Placa de Bruxismo,Inferior,N/A,N/A,True,Revisar oclusión.,2025-03-07,2025-03-11,2025-03-18,False
+146,VitalDent,Carlos López,Ana Sofía Correa,Protesis Removible,"37, 30",C1,Vita 3D Master,False,Revisar oclusión.,2025-04-19,2025-04-23,2025-04-26,False
+147,Clínica Odontológica del Sur,Valentina Cano,Juan Camilo Botero,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Revisar oclusión.,2025-03-04,2025-03-07,2025-03-14,False
+148,VitalDent,Laura Ospina,David Zuluaga,Protesis Removible,"41, 21, 20",BL1,Duratone,True,Paciente sensible.,2025-02-06,2025-02-14,2025-02-19,False
+149,David Ospina,Elena Gómez,Valentina Ospina,Provisional,"31, 35, 13, 44",A2,Vitapan,False,Paciente sensible.,2024-09-11,2024-09-18,,True
+150,Sebastián Alzate,Ricardo Pérez,Carlos Andrés Ruiz,Corona Metal Ceramica,"42, 21",D2,Biodent,False,Requiere ajuste.,2024-11-16,2024-11-26,2024-12-01,False
+151,Centro Estético Dental,Elena Gómez,Felipe Marín,Corona sobre Implante con T-base,"26, 22, 37",B4,Duratone,False,Procedimiento rutinario.,2024-07-28,2024-08-05,2024-08-09,False
+152,Diana Marcela Ríos,Camilo Torres,Diego Alejandro Sierra,Placa Estetica,"29, 21, 21",C1,Vitapan,False,Requiere ajuste.,2024-09-02,2024-09-04,,True
+153,Dr. Juan Pablo Gómez,Clara Inés Duque,Luisa Fernanda Echeverri,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Paciente sensible.,2024-12-26,2024-12-31,,True
+154,Dra. Clara Inés Duque,Gabriela Rojas,Sara Victoria Tamayo,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Requiere ajuste.,2024-10-30,2024-11-08,2024-11-15,False
+155,Ortodoncia Plus,Felipe Montoya,Martín Quintero,Placa de Bruxismo,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-09-23,2024-10-01,,True
+156,Implantes Dentales Medellín,Andrea Carolina Mesa,Esteban Saldarriaga,Hyrax,Inferior,N/A,N/A,True,Paciente sensible.,2025-04-09,2025-04-11,2025-04-18,False
+157,Dr. Juan Pablo Gómez,Miguel Ángel Sierra,Daniela Valencia,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-03-04,2025-03-07,,True
+158,Oral Health Solutions,Camilo Gaviria,Juan Pablo Arias,Corona sobre Implante con T-base,37,C3,Vitapan,False,Revisar oclusión.,2024-11-15,2024-11-16,,True
+159,Clínica Dental Nova,Andrea Giraldo,Paula Andrea Díaz,Perno,"48, 43",N/A,N/A,True,Alta estética.,2024-12-09,2024-12-19,2024-12-24,False
+160,Sonrisas Brillantes,María Fernanda Ortiz,Silvana Restrepo,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-07-19,2024-07-20,,True
+161,Natalia Soto,Clara Inés Duque,Santiago Pérez,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Revisar oclusión.,2025-05-20,2025-05-21,,True
+162,Dr. Mauricio Restrepo,Luisa Fernanda Díaz,Cristian Bermúdez,Corona Metal Ceramica,"34, 22, 19",B2,Biodent,True,Procedimiento rutinario.,2024-08-07,2024-08-12,,True
+163,Oral Health Solutions,Jorge Alberto Ruiz,Laura Giraldo,Guia Quirurgica,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-08-04,2024-08-08,2024-08-15,False
+164,Dr. Camilo Gaviria,Fernando Quintero,Laura Cristina Jaramillo,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2025-01-16,2025-01-20,2025-01-22,False
+165,Dr. Miguel Ángel Sierra,Valeria Duque,Valentina Ospina,Provisional,"27, 24",D3,Duratone,False,Requiere ajuste.,2025-02-16,2025-02-24,,True
+166,Sonrisas Sanas,Andrea Carolina Mesa,Carlos Andrés Ruiz,Placa Estetica,37,D4,Vita 3D Master,True,Requiere ajuste.,2025-05-11,2025-05-19,,True
+167,Clínica Dental del Norte,Diana Marcela Ríos,Juan Pablo Arias,Placa Estetica,"21, 13, 21",OM1,Vitapan,False,Revisar oclusión.,2025-01-02,2025-01-10,2025-01-13,False
+168,Centro Odontológico Integral,Sofía Vargas,Natalia Andrea Vélez,Corona Totalmente Ceramica,"48, 20, 36, 31",OM3,Biodent,False,Paciente sensible.,2025-01-12,2025-01-21,,True
+169,Dra. Liliana Cifuentes,Andrea Giraldo,Martín Quintero,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Paciente sensible.,2024-10-17,2024-10-26,2024-11-02,False
+170,Clínica Dental Armonía,Mauricio Rodriguez,Natalia Andrea Vélez,Corona sobre Implante con Pilar Personalizado,"20, 46, 44",A1,Duratone,False,Paciente sensible.,2024-06-25,2024-06-26,,True
+171,Jorge Alberto Ruiz,Diego Salazar,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2025-06-02,2025-06-04,2025-06-11,False
+172,Juan José Correa,Elena Gómez,Silvana Restrepo,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Revisar oclusión.,2025-04-12,2025-04-13,,True
+173,Salud Dental Familiar,David Ospina,Diego Alejandro Sierra,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Procedimiento rutinario.,2024-09-07,2024-09-17,,True
+174,Centro Estético Dental,Elena Gómez,Luisa Fernanda Echeverri,Provisional,"11, 38, 29, 36",D2,Duratone,True,Paciente sensible.,2024-10-09,2024-10-11,2024-10-12,False
+175,Clínica Odontológica del Sur,Diego Salazar,Juan Camilo Botero,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-11-26,2024-12-05,,True
+176,VitalDent,Patricia Acevedo,Cristian Bermúdez,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-10-28,2024-11-07,,True
+177,Clínica Odontológica del Sur,Gabriela Rojas,Daniela Valencia,Placa Estetica,"36, 43",OM1,Vitapan,True,Requiere ajuste.,2024-06-02,2024-06-08,2024-06-15,False
+178,Dr. Fernando Quintero,Diego Salazar,Juan Pablo Arias,Placa Estetica,"38, 45, 44, 22",A1,Vitapan,False,Revisar oclusión.,2025-01-05,2025-01-09,,True
+179,Clínica Dental Sonríe,Camilo Torres,Valentina Ospina,Perno,27,N/A,N/A,False,Requiere ajuste.,2024-08-07,2024-08-10,2024-08-15,False
+180,Ortodoncia Avanzada,Mariana Vélez,Victoria Suárez,Corona Totalmente Ceramica,25,OM2,Vita 3D Master,False,Revisar oclusión.,2024-11-29,2024-12-08,2024-12-09,False
+181,Dr. Fernando Quintero,Valeria Duque,Santiago Pérez,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-02-23,2025-02-27,,True
+182,Clínica Dental del Norte,Sofía Vargas,Angie Paola Vargas,Placa de Bruxismo,Inferior,N/A,N/A,True,Revisar oclusión.,2025-05-06,2025-05-10,,True
+183,Centro Estético Dental,Camilo Torres,Nicolás Castro,Placa de Bruxismo,Superior,N/A,N/A,False,Paciente sensible.,2025-02-23,2025-03-02,2025-03-06,False
+184,Luisa Fernanda Díaz,Clara Inés Duque,Daniel Alzate,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Requiere ajuste.,2024-08-04,2024-08-07,2024-08-13,False
+185,Dra. Liliana Cifuentes,Jorge Alberto Ruiz,Felipe Marín,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Paciente sensible.,2024-10-23,2024-10-31,,True
+186,Dental Excellence,Andrea Giraldo,Samuel Bustamante,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-03-13,2025-03-23,,True
+187,Dra. Liliana Cifuentes,Ana María Pérez,Victoria Suárez,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2024-11-07,2024-11-10,,True
+188,Clínica Dental Familias,Mauricio Restrepo,Valentina Ospina,Corona sobre Implante con T-base,"24, 25, 41, 15",A3,Vita 3D Master,False,Revisar oclusión.,2025-05-01,2025-05-11,,True
+189,DentistPro,Natalia Soto,Samuel Bustamante,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2024-08-16,2024-08-22,,True
+190,VitalDent,Gabriela Rojas,Laura Cristina Jaramillo,Corona sobre Implante con Pilar Personalizado,35,B4,Vitapan,True,Revisar oclusión.,2024-06-13,2024-06-20,2024-06-22,False
+191,Sonrisas Saludables,Sofía Vargas,Ana Sofía Correa,Corona Metal Ceramica,"17, 45",BL1,Biodent,False,Requiere ajuste.,2024-07-05,2024-07-13,,True
+192,Clínica Dental Familias,Miguel Ángel Sierra,Carlos Andrés Ruiz,Guia Quirurgica,Inferior,N/A,N/A,False,Alta estética.,2024-11-08,2024-11-11,2024-11-16,False
+193,Luisa Fernanda Díaz,Sebastián Alzate,Laura Giraldo,Guia Quirurgica,Inferior,N/A,N/A,False,Paciente sensible.,2024-11-28,2024-11-30,,True
+194,Maxilofacial & Implantes,Diana Marcela Ríos,José Miguel Soto,Corona sobre Implante con Pilar Titanio,"33, 26, 18",BL2,Duratone,True,Alta estética.,2024-07-21,2024-07-25,,True
+195,Ortodoncia Avanzada,Mariana Vélez,Carlos Andrés Ruiz,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Revisar oclusión.,2024-08-22,2024-08-28,,True
+196,OdontoKids,Sebastián Alzate,Martín Quintero,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Revisar oclusión.,2024-09-09,2024-09-11,2024-09-16,False
+197,Clínica Dental Bienestar,Felipe Montoya,Emmanuel Franco,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,True,Revisar oclusión.,2025-04-12,2025-04-13,2025-04-19,False
+198,DentistPro,Camilo Torres,Esteban Saldarriaga,Placa Estetica,"35, 16, 17",D2,Vita 3D Master,True,Revisar oclusión.,2025-02-08,2025-02-15,2025-02-21,False
+199,Implantes Dentales Medellín,Pablo Escobar,Luisa Fernanda Echeverri,Placa de Bruxismo,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-10-29,2024-11-08,2024-11-15,False
+200,Pedro Sánchez,Juan José Correa,Emmanuel Franco,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Paciente sensible.,2024-09-16,2024-09-19,,True
+201,Estética Dental Premium,Diana Marcela Ríos,Gabriela Morales,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-04-05,2025-04-07,2025-04-14,False
+202,David Ospina,Andrea Carolina Mesa,Paulina Alzate,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-07-05,2024-07-06,,True
+203,Centro Estético Dental,Pedro Sánchez,Daniel Alzate,Corona sobre Implante con Pilar Personalizado,"12, 42",OM1,Duratone,False,Alta estética.,2025-01-14,2025-01-17,,True
+204,Clínica Dental Armonía,Andrea Carolina Mesa,Juan Pablo Arias,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2025-01-26,2025-02-04,,True
+205,VitalDent,Sara Jaramillo,Valeria Alejandra Gil,Perno,"11, 30",N/A,N/A,True,Revisar oclusión.,2024-06-24,2024-06-27,2024-07-04,False
+206,Odontología Estética,Diana Marcela Ríos,Sofía Ramírez,Guia Quirurgica,Superior,N/A,N/A,True,Alta estética.,2024-08-25,2024-09-02,2024-09-08,False
+207,Salud Dental Familiar,Ricardo Pérez,Emmanuel Franco,Corona sobre Implante con Pilar Personalizado,"35, 35",BL1,Vita 3D Master,False,Paciente sensible.,2024-10-04,2024-10-13,2024-10-16,False
+208,Juan José Correa,Martín Valencia,Andrés Felipe Marulanda,Provisional,"25, 42, 47, 37",A2,Vitapan,False,Paciente sensible.,2024-11-16,2024-11-25,,True
+209,Clínica Dental del Norte,Andrés Felipe Castro,Juan David Restrepo,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Paciente sensible.,2024-08-04,2024-08-07,2024-08-12,False
+210,Dra. Sara Jaramillo,María Fernanda Ortiz,Ana Sofía Correa,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Requiere ajuste.,2024-08-14,2024-08-20,2024-08-21,False
+211,Dr. Juan Pablo Gómez,Natalia Soto,Valeria López,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Requiere ajuste.,2024-06-22,2024-06-26,2024-07-02,False
+212,Estética Dental Premium,Isabella Sierra,Natalia Andrea Vélez,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-12-11,2024-12-19,2024-12-22,False
+213,Dra. Clara Inés Duque,Andrea Giraldo,Daniel Alzate,Placa Estetica,"43, 44, 22",C3,Duratone,False,Requiere ajuste.,2024-11-30,2024-12-03,,True
+214,Clínica Dental Armonía,Carolina Mesa,Simón Orozco,Perno,"14, 11",N/A,N/A,False,Revisar oclusión.,2025-04-22,2025-04-29,,True
+215,Dr. Camilo Gaviria,Sofía Vargas,Camila Montoya,Protesis Removible,"11, 30",BL4,Vitapan,False,Requiere ajuste.,2025-05-25,2025-05-31,,True
+216,Clínica Dental del Centro,Luisa Fernanda Díaz,Daniel Alzate,Corona Metal Ceramica,"44, 48, 30, 11",BL3,Biodent,True,Paciente sensible.,2024-10-19,2024-10-22,2024-10-25,False
+217,Andrea Carolina Mesa,David Ospina,Valeria López,Protesis Removible,"15, 37, 35",C4,Duratone,True,Procedimiento rutinario.,2024-12-31,2025-01-04,2025-01-11,False
+218,Dra. Clara Inés Duque,Miguel Ángel Sierra,Diego Alejandro Sierra,Provisional,"35, 11",C3,Vitapan,False,Revisar oclusión.,2025-02-27,2025-02-28,,True
+219,Ortodoncia Plus,Ricardo Pérez,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Revisar oclusión.,2025-03-02,2025-03-09,2025-03-10,False
+220,Dra. Clara Inés Duque,Patricia Acevedo,Luisa Fernanda Echeverri,Corona sobre Implante con Pilar Titanio,"23, 42, 25, 44",B3,Duratone,False,Revisar oclusión.,2025-05-20,2025-05-26,2025-05-27,False
+221,Implantes Dentales Medellín,Juan José Correa,Carlos Andrés Ruiz,Provisional,"19, 33, 12",C4,Vitapan,False,Revisar oclusión.,2025-01-11,2025-01-12,2025-01-14,False
+222,Dental Excellence,Mateo Vargas,Samuel Bustamante,Protesis Removible,39,BL4,Vitapan,False,Requiere ajuste.,2024-11-25,2024-12-03,2024-12-10,False
+223,Centro Odontológico Integral,Juan Pablo Gómez,Emmanuel Franco,Corona Metal Ceramica,"23, 39",B3,Biodent,True,Alta estética.,2024-09-23,2024-09-28,2024-09-29,False
+224,Dental Excellence,Pedro Sánchez,Juan Camilo Botero,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-04-22,2025-04-30,,True
+225,Centro Odontológico Integral,Pablo Escobar,Cristian Bermúdez,Hyrax,Superior,N/A,N/A,True,Revisar oclusión.,2024-09-19,2024-09-25,2024-09-29,False
+226,Implantes Dentales Medellín,Juan José Correa,Felipe Marín,Placa Estetica,"25, 22, 36",B3,Biodent,False,Revisar oclusión.,2025-05-21,2025-05-22,,True
+227,Dr. Camilo Gaviria,María Fernanda Ortiz,Luisa Fernanda Echeverri,Corona sobre Implante con T-base,"34, 24, 24",BL4,Vita 3D Master,True,Paciente sensible.,2024-07-10,2024-07-11,2024-07-12,False
+228,Dental Excellence,Natalia Soto,Cristian Bermúdez,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Alta estética.,2024-08-07,2024-08-15,,True
+229,Dr. Alejandro Vélez,Fernando Quintero,Paulina Alzate,Corona sobre Implante con T-base,"45, 48, 14",OM3,Vitapan,True,Paciente sensible.,2024-06-22,2024-06-29,2024-07-01,False
+230,Clínica Dental Familias,Laura Ospina,Victoria Suárez,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Alta estética.,2025-01-25,2025-01-30,,True
+231,Ortodoncia Avanzada,Isabella Sierra,Esteban Saldarriaga,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Revisar oclusión.,2024-09-18,2024-09-22,2024-09-24,False
+232,Centro Odontológico Integral,Pablo Escobar,Valentina Ospina,Placa Estetica,"48, 11",C2,Biodent,True,Paciente sensible.,2025-04-20,2025-04-24,2025-04-28,False
+233,Maxilofacial & Implantes,Laura Ospina,Paula Andrea Díaz,Hyrax,Inferior,N/A,N/A,False,Requiere ajuste.,2024-08-10,2024-08-18,,True
+234,Dr. Alejandro Vélez,Liliana Cifuentes,Carlos Andrés Ruiz,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Revisar oclusión.,2025-05-15,2025-05-19,,True
+235,Centro Odontológico Integral,Alejandro Vélez,Miguel Ángel Tobón,Corona Totalmente Ceramica,"47, 11",BL3,Biodent,False,Requiere ajuste.,2024-06-12,2024-06-16,2024-06-18,False
+236,Clínica Odontológica del Sur,Mariana Vélez,Alejandro Herrera,Corona Metal Ceramica,31,OM1,Biodent,True,Alta estética.,2025-02-09,2025-02-19,2025-02-26,False
+237,Ortodoncia Plus,Pedro Sánchez,Paula Andrea Díaz,Perno,"44, 18",N/A,N/A,False,Revisar oclusión.,2025-06-02,2025-06-12,2025-06-16,False
+238,Natalia Soto,Mauricio Rodriguez,Juan David Restrepo,Corona sobre Implante con Pilar Titanio,"15, 48, 35, 48",A3,Vita 3D Master,True,Requiere ajuste.,2024-10-11,2024-10-12,2024-10-13,False
+239,Salud Oral Integral,Mariana Vélez,Silvana Restrepo,Provisional,"38, 44, 34",BL3,Biodent,True,Alta estética.,2025-03-20,2025-03-27,2025-03-30,False
+240,Dra. Sofía Vargas,Sara Jaramillo,Daniela Valencia,Perno,30,N/A,N/A,True,Alta estética.,2025-01-03,2025-01-10,2025-01-12,False
+241,Maxilofacial & Implantes,Javier Restrepo,Mariana Vélez,Perno,"42, 19",N/A,N/A,False,Procedimiento rutinario.,2024-09-03,2024-09-12,,True
+242,Dr. Juan Pablo Gómez,Miguel Ángel Sierra,Arturo Montoya,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,False,Alta estética.,2025-02-17,2025-02-25,2025-03-03,False
+243,Dra. Sofía Vargas,Juan Felipe Restrepo,Emmanuel Franco,Corona Totalmente Ceramica,"18, 36, 11, 43",OM2,Biodent,True,Alta estética.,2024-06-21,2024-06-25,2024-06-30,False
+244,Dr. Miguel Ángel Sierra,Santiago Rojas,Paulina Alzate,Corona sobre Implante con T-base,"43, 34",C3,Vitapan,True,Requiere ajuste.,2025-02-10,2025-02-19,,True
+245,Clínica Dental del Centro,Martín Valencia,Gabriela Morales,Corona sobre Implante con Pilar Personalizado,"13, 38",D4,Biodent,False,Alta estética.,2024-12-14,2024-12-15,2024-12-20,False
+246,Ortodoncia Avanzada,Camilo Gaviria,Lucía Osorio,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Requiere ajuste.,2024-08-10,2024-08-14,,True
+247,Pedro Sánchez,Mariana Vélez,Juan Camilo Botero,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,True,Requiere ajuste.,2025-02-20,2025-03-01,,True
+248,Jorge Alberto Ruiz,Laura Ospina,Andrés Felipe Marulanda,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-01-23,2025-01-25,2025-01-26,False
+249,Salud Oral Integral,María Fernanda Ortiz,Isabella Mejía,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Paciente sensible.,2025-02-14,2025-02-17,2025-02-21,False
+250,Dental Excellence,Liliana Cifuentes,Ana Sofía Correa,Hyrax,Inferior,N/A,N/A,False,Paciente sensible.,2025-06-02,2025-06-07,,True
+251,Sebastián Alzate,Juan José Correa,Angie Paola Vargas,Guia Quirurgica,Superior,N/A,N/A,False,Alta estética.,2024-12-19,2024-12-23,2024-12-27,False
+252,Dr. Fernando Quintero,Miguel Ángel Sierra,Victoria Suárez,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-01-13,2025-01-22,,True
+253,Centro Odontológico Integral,Diana Marcela Ríos,Martín Quintero,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2024-12-27,2025-01-02,2025-01-06,False
+254,VitalDent,Andrea Giraldo,Laura Giraldo,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2025-02-15,2025-02-16,2025-02-21,False
+255,Sebastián Alzate,Carlos López,David Zuluaga,Corona sobre Implante con T-base,"16, 42",C2,Vitapan,True,Procedimiento rutinario.,2024-06-06,2024-06-16,,True
+256,Odontopediatría Integral,Diego Salazar,Simón Orozco,Perno,36,N/A,N/A,False,Requiere ajuste.,2024-12-27,2025-01-06,,True
+257,Dr. Mauricio Restrepo,Mateo Vargas,Luisa Fernanda Echeverri,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,True,Requiere ajuste.,2024-06-22,2024-06-27,,True
+258,Ortodoncia Avanzada,Ricardo Pérez,Natalia Andrea Vélez,Guia Quirurgica,Inferior,N/A,N/A,True,Paciente sensible.,2025-05-22,2025-06-01,2025-06-05,False
+259,Diana Marcela Ríos,Natalia Soto,Simón Orozco,Protesis Removible,"36, 12, 32",C2,Duratone,True,Paciente sensible.,2025-03-16,2025-03-23,,True
+260,Dental Excellence,Alejandro Vélez,Santiago Pérez,Provisional,"11, 27",OM1,Vita 3D Master,False,Alta estética.,2025-05-10,2025-05-12,,True
+261,Salud Oral Integral,Daniela Marín,Victoria Suárez,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-05-29,2025-06-08,2025-06-10,False
+262,Sonrisas Brillantes,Mauricio Rodriguez,Miguel Ángel Tobón,Corona Metal Ceramica,28,A1,Duratone,True,Alta estética.,2025-03-13,2025-03-14,2025-03-21,False
+263,Centro Estético Dental,Carlos López,Luisa Fernanda Echeverri,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Revisar oclusión.,2024-07-06,2024-07-10,,True
+264,Dr. Fernando Quintero,Alejandro Vélez,Camila Montoya,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Alta estética.,2024-09-14,2024-09-20,2024-09-22,False
+265,Diana Marcela Ríos,Diego Salazar,Ana Sofía Correa,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,True,Requiere ajuste.,2024-09-09,2024-09-16,,True
+266,Dr. Miguel Ángel Sierra,David Ospina,Gabriela Morales,Placa de Bruxismo,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-03-05,2025-03-10,,True
+267,Dr. Alejandro Vélez,Lorena Henao,Luisa Fernanda Echeverri,Placa de Bruxismo,Superior,N/A,N/A,False,Paciente sensible.,2025-05-09,2025-05-17,2025-05-21,False
+268,Clínica Dental Armonía,Valentina Cano,Silvana Restrepo,Provisional,25,BL2,Duratone,False,Procedimiento rutinario.,2025-04-01,2025-04-09,2025-04-10,False
+269,Salud Dental Familiar,Patricia Acevedo,Catalina Rendón,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-11-15,2024-11-18,2024-11-21,False
+270,Pedro Sánchez,Andrés Felipe Castro,Daniela Valencia,Placa de Bruxismo,Inferior,N/A,N/A,False,Alta estética.,2025-05-10,2025-05-12,,True
+271,Jorge Alberto Ruiz,Elena Gómez,Lucía Osorio,Corona Totalmente Ceramica,42,BL4,Duratone,False,Procedimiento rutinario.,2025-02-23,2025-03-05,2025-03-07,False
+272,Implantes Dentales Medellín,Fernando Quintero,Camila Montoya,Guia Quirurgica,Inferior,N/A,N/A,False,Requiere ajuste.,2024-08-09,2024-08-12,2024-08-13,False
+273,Sonrisas Sanas,Sara Jaramillo,Emmanuel Franco,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-11-23,2024-11-30,,True
+274,Pedro Sánchez,Javier Restrepo,Samuel Bustamante,Perno,"38, 12",N/A,N/A,False,Alta estética.,2024-12-25,2025-01-02,2025-01-07,False
+275,DentistPro,Gabriela Rojas,Esteban Saldarriaga,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-10-08,2024-10-11,,True
+276,Clínica Dental Armonía,Javier Restrepo,Simón Orozco,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Procedimiento rutinario.,2024-12-29,2025-01-02,2025-01-03,False
+277,Implantes Dentales Medellín,Isabella Sierra,Juan David Restrepo,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Alta estética.,2024-06-10,2024-06-19,,True
+278,Implantes Dentales Medellín,Juan Pablo Gómez,Santiago Pérez,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Paciente sensible.,2024-12-07,2024-12-15,,True
+279,DentistPro,Carolina Mesa,Paulina Alzate,Corona sobre Implante con Pilar Personalizado,"17, 41, 33, 30",C4,Vitapan,False,Procedimiento rutinario.,2024-08-29,2024-09-04,2024-09-06,False
+280,Implantes Dentales Medellín,Camilo Torres,Manuela Cárdenas,Corona Totalmente Ceramica,"25, 37",C3,Vitapan,False,Requiere ajuste.,2025-01-26,2025-02-02,,True
+281,Salud Dental Familiar,Patricia Acevedo,Laura Cristina Jaramillo,Corona Metal Ceramica,"27, 33",B2,Duratone,True,Alta estética.,2024-12-18,2024-12-24,2024-12-27,False
+282,Ortodoncia Avanzada,Ricardo Pérez,Sofía Ramírez,Corona sobre Implante con Pilar Titanio,"23, 13, 40, 24",C1,Biodent,False,Paciente sensible.,2025-02-09,2025-02-14,2025-02-21,False
+283,Clínica Dental Nova,Carolina Mesa,David Zuluaga,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,True,Requiere ajuste.,2024-07-24,2024-07-26,2024-07-30,False
+284,Dra. Sofía Vargas,Alejandro Vélez,Luisa Fernanda Echeverri,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,True,Paciente sensible.,2025-03-15,2025-03-17,2025-03-24,False
+285,Clínica Dental Sonríe,Miguel Ángel Sierra,Camila Montoya,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Requiere ajuste.,2024-12-10,2024-12-11,,True
+286,Mariana Vélez,Martín Valencia,Manuela Cárdenas,Perno,29,N/A,N/A,True,Procedimiento rutinario.,2024-12-05,2024-12-06,,True
+287,Implantes Dentales Medellín,Camilo Gaviria,Laura Cristina Jaramillo,Hyrax,Inferior,N/A,N/A,True,Paciente sensible.,2024-07-30,2024-08-05,,True
+288,Centro Odontológico Integral,Juan José Correa,Manuela Cárdenas,Corona sobre Implante con T-base,"13, 18, 18",OM1,Vita 3D Master,True,Requiere ajuste.,2024-09-14,2024-09-16,,True
+289,Centro Estético Dental,Pedro Sánchez,Alejandro Herrera,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Alta estética.,2024-09-04,2024-09-13,,True
+290,Ortodoncia Avanzada,Diego Salazar,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2025-05-03,2025-05-04,,True
+291,Dental Kids,Roberto Morales,Paulina Alzate,Corona Metal Ceramica,23,BL4,Vita 3D Master,True,Procedimiento rutinario.,2024-07-19,2024-07-26,2024-08-02,False
+292,Dra. Sara Jaramillo,Martín Valencia,Valeria López,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Requiere ajuste.,2025-01-02,2025-01-12,,True
+293,David Ospina,Camilo Gaviria,Lucía Osorio,Corona sobre Implante con Pilar Titanio,32,C3,Biodent,False,Alta estética.,2024-08-15,2024-08-25,,True
+294,Andrea Carolina Mesa,Diego Salazar,Diego Alejandro Sierra,Corona Metal Ceramica,45,BL4,Duratone,True,Alta estética.,2025-04-28,2025-04-29,,True
+295,VitalDent,María Fernanda Ortiz,Carlos Andrés Ruiz,Placa Estetica,"28, 33",C1,Biodent,False,Procedimiento rutinario.,2025-04-17,2025-04-25,,True
+296,Dr. Miguel Ángel Sierra,Fernando Quintero,Valentina Ospina,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-04-06,2025-04-13,2025-04-15,False
+297,Andrea Carolina Mesa,Luisa Fernanda Díaz,Isabella Mejía,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Revisar oclusión.,2024-07-15,2024-07-16,2024-07-22,False
+298,Ortodoncia Avanzada,Mateo Vargas,Silvana Restrepo,Corona sobre Implante con Pilar Personalizado,"41, 35",BL2,Vita 3D Master,True,Paciente sensible.,2025-03-26,2025-04-04,2025-04-09,False
+299,Clínica Dental del Centro,Sara Jaramillo,Juan David Restrepo,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-05-20,2025-05-25,2025-05-31,False
+300,DentistPro,Patricia Acevedo,Valeria Alejandra Gil,Corona Totalmente Ceramica,46,C2,Vitapan,True,Paciente sensible.,2024-07-31,2024-08-02,,True
+301,Odontopediatría Integral,Daniela Marín,Carolina Rivera,Corona sobre Implante con Pilar Personalizado,16,BL1,Duratone,False,Revisar oclusión.,2025-03-27,2025-03-31,,True
+302,Juan José Correa,María Fernanda Ortiz,Samuel Bustamante,Corona sobre Implante con Pilar Personalizado,"26, 25, 42, 42",B2,Biodent,True,Requiere ajuste.,2025-05-19,2025-05-25,,True
+303,Odonto Sonrisa,Fernando Quintero,Catalina Rendón,Placa Estetica,"24, 12, 37",B4,Vita 3D Master,False,Alta estética.,2024-12-25,2024-12-29,,True
+304,Dra. Sara Jaramillo,María Fernanda Ortiz,Mateo Giraldo,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2025-05-21,2025-05-22,2025-05-23,False
+305,Luisa Fernanda Díaz,Santiago Rojas,Juan Camilo Botero,Corona Totalmente Ceramica,"39, 13, 20",B2,Vita 3D Master,False,Procedimiento rutinario.,2024-11-08,2024-11-17,,True
+306,Clínica Dental Nova,Juan Pablo Gómez,Valeria López,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Paciente sensible.,2025-03-31,2025-04-05,,True
+307,David Ospina,Laura Ospina,Sara Victoria Tamayo,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-08-24,2024-08-31,,True
+308,Clínica Odontológica del Sur,Juan José Correa,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Alta estética.,2024-08-27,2024-09-05,,True
+309,Diana Marcela Ríos,Ana María Pérez,Alejandro Herrera,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-06-11,2024-06-14,2024-06-17,False
+310,Sonrisas Saludables,Pablo Escobar,Silvana Restrepo,Corona sobre Implante con Pilar Personalizado,"12, 15, 21",OM1,Vitapan,False,Procedimiento rutinario.,2024-08-19,2024-08-28,2024-09-04,False
+311,Implantes Dentales Medellín,Sebastián Alzate,Paula Andrea Díaz,Hyrax,Inferior,N/A,N/A,False,Alta estética.,2024-12-16,2024-12-19,2024-12-22,False
+312,Ortodoncia Avanzada,David Ospina,Laura Cristina Jaramillo,Protesis Removible,36,BL2,Duratone,False,Paciente sensible.,2024-06-18,2024-06-25,,True
+313,Implantes Dentales Medellín,Ricardo Pérez,Diego Alejandro Sierra,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,False,Revisar oclusión.,2025-03-31,2025-04-09,,True
+314,Sonrisas Saludables,Paula Andrea Morales,Esteban Saldarriaga,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Alta estética.,2025-05-24,2025-06-01,2025-06-05,False
+315,Jorge Alberto Ruiz,Gabriela Rojas,Angie Paola Vargas,Corona sobre Implante con Pilar Personalizado,"34, 21",BL2,Duratone,False,Requiere ajuste.,2025-05-29,2025-06-04,2025-06-10,False
+316,Ortodoncia Avanzada,Camilo Torres,Felipe Marín,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-07-11,2024-07-15,,True
+317,Dental Excellence,Carolina Mesa,Emmanuel Franco,Placa Estetica,"43, 31",D3,Biodent,True,Paciente sensible.,2025-01-18,2025-01-21,2025-01-25,False
+318,Centro Estético Dental,Diana Marcela Ríos,Nicolás Castro,Corona Metal Ceramica,"38, 40, 25",OM2,Vitapan,True,Revisar oclusión.,2025-01-15,2025-01-22,2025-01-29,False
+319,Clínica Dental del Centro,Natalia Soto,Alejandro Herrera,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Revisar oclusión.,2024-07-26,2024-08-05,,True
+320,Clínica Dental del Norte,Clara Inés Duque,Laura Giraldo,Corona Metal Ceramica,"38, 46",OM1,Biodent,False,Requiere ajuste.,2025-05-20,2025-05-22,2025-05-26,False
+321,Ortodoncia Plus,Camilo Torres,Santiago Pérez,Corona Totalmente Ceramica,"11, 28, 17, 15",BL3,Duratone,False,Alta estética.,2025-04-15,2025-04-18,2025-04-20,False
+322,VitalDent,Juan José Correa,Valeria López,Placa de Bruxismo,Inferior,N/A,N/A,False,Paciente sensible.,2024-12-19,2024-12-22,,True
+323,David Ospina,Mauricio Restrepo,Julian Alberto Cano,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Revisar oclusión.,2025-04-09,2025-04-11,2025-04-14,False
+324,Jorge Alberto Ruiz,Ricardo Pérez,Lucía Osorio,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Requiere ajuste.,2025-05-13,2025-05-18,,True
+325,Juan José Correa,Liliana Cifuentes,David Zuluaga,Provisional,39,A3,Vita 3D Master,False,Requiere ajuste.,2024-07-06,2024-07-14,2024-07-18,False
+326,Odonto Sonrisa,Felipe Montoya,Felipe Marín,Corona sobre Implante con Pilar Personalizado,"48, 34, 44",C4,Biodent,True,Paciente sensible.,2025-04-24,2025-04-30,2025-05-06,False
+327,OdontoKids,Isabella Sierra,Valeria Alejandra Gil,Perno,29,N/A,N/A,False,Paciente sensible.,2025-01-13,2025-01-15,,True
+328,Dr. Juan Pablo Gómez,Diego Salazar,Juan Camilo Botero,Corona sobre Implante con Pilar Personalizado,"18, 44",A1,Duratone,True,Requiere ajuste.,2025-04-29,2025-05-02,,True
+329,Dr. Alejandro Vélez,Paula Andrea Morales,José Miguel Soto,Corona sobre Implante con T-base,"22, 12",C2,Biodent,True,Alta estética.,2025-05-20,2025-05-21,2025-05-24,False
+330,Clínica Dental Sonríe,Andrea Giraldo,Ana Sofía Correa,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,False,Alta estética.,2025-03-27,2025-03-31,2025-04-04,False
+331,Jorge Alberto Ruiz,Andrea Carolina Mesa,Sebastián Duque,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-11-29,2024-11-30,2024-12-05,False
+332,Dra. Clara Inés Duque,Camilo Gaviria,Sara Victoria Tamayo,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Revisar oclusión.,2024-06-02,2024-06-07,2024-06-10,False
+333,Odontopediatría Integral,Lorena Henao,Valeria Alejandra Gil,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Requiere ajuste.,2025-05-16,2025-05-23,,True
+334,Sebastián Alzate,Felipe Montoya,Manuela Cárdenas,Corona Metal Ceramica,35,A1,Duratone,True,Alta estética.,2025-02-09,2025-02-13,,True
+335,Odonto Sonrisa,Mauricio Rodriguez,Cristian Bermúdez,Protesis Removible,"47, 34, 17, 43",D4,Biodent,False,Paciente sensible.,2024-07-03,2024-07-13,,True
+336,Dental Excellence,Pedro Sánchez,Juan Camilo Botero,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Revisar oclusión.,2024-07-09,2024-07-10,2024-07-17,False
+337,Dr. Mauricio Restrepo,Ana María Pérez,Simón Orozco,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Alta estética.,2024-06-30,2024-07-01,2024-07-02,False
+338,Salud Oral Integral,David Ospina,Juan David Restrepo,Hyrax,Inferior,N/A,N/A,False,Revisar oclusión.,2025-04-01,2025-04-03,,True
+339,Odontología Estética,Roberto Morales,Valeria Alejandra Gil,Corona sobre Implante con T-base,"19, 37, 43",OM1,Duratone,False,Paciente sensible.,2024-10-28,2024-10-31,2024-11-02,False
+340,Clínica Dental Nova,Luisa Fernanda Díaz,Julian Alberto Cano,Perno,"20, 39, 25",N/A,N/A,True,Alta estética.,2025-01-23,2025-01-27,2025-01-29,False
+341,Centro Odontológico Integral,Liliana Cifuentes,Mateo Giraldo,Corona sobre Implante con Pilar Titanio,"40, 46, 44",B1,Vita 3D Master,True,Procedimiento rutinario.,2025-02-10,2025-02-16,2025-02-21,False
+342,Odonto Sonrisa,Ricardo Pérez,David Zuluaga,Perno,39,N/A,N/A,False,Paciente sensible.,2024-09-03,2024-09-12,2024-09-17,False
+343,Andrea Carolina Mesa,Santiago Rojas,Victoria Suárez,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-07-29,2024-08-04,2024-08-08,False
+344,Odonto Sonrisa,Andrea Giraldo,Sebastián Duque,Protesis Removible,"25, 38, 47, 16",D2,Duratone,False,Revisar oclusión.,2025-05-22,2025-05-27,,True
+345,Salud Dental Familiar,Ana María Pérez,Santiago Pérez,Placa Estetica,45,OM3,Vitapan,False,Paciente sensible.,2025-02-09,2025-02-17,,True
+346,Andrea Carolina Mesa,José Luis Cardona,Paula Andrea Díaz,Corona sobre Implante con Pilar Personalizado,36,BL3,Vita 3D Master,False,Alta estética.,2024-12-07,2024-12-14,2024-12-15,False
+347,Natalia Soto,Javier Restrepo,Juan Pablo Arias,Corona Metal Ceramica,"45, 18",A3.5,Duratone,True,Paciente sensible.,2024-06-20,2024-06-30,2024-07-01,False
+348,Clínica Dental del Norte,Fernando Quintero,Natalia Andrea Vélez,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Requiere ajuste.,2025-05-29,2025-06-08,,True
+349,Clínica Dental Armonía,Daniela Marín,Daniela Valencia,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Procedimiento rutinario.,2024-11-25,2024-12-04,2024-12-10,False
+350,Dr. Camilo Gaviria,Valentina Cano,Samuel Bustamante,Protesis Removible,48,C2,Biodent,False,Alta estética.,2024-07-07,2024-07-15,,True
+351,Clínica Dental Sonríe,Pablo Escobar,Juan Camilo Botero,Corona sobre Implante con T-base,"26, 20, 29",A4,Biodent,False,Revisar oclusión.,2025-04-30,2025-05-01,,True
+352,Implantes Dentales Medellín,Mauricio Restrepo,Arturo Montoya,Hyrax,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2024-08-29,2024-09-05,,True
+353,Dental Kids,Mauricio Rodriguez,Lucía Osorio,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-03-08,2025-03-15,2025-03-19,False
+354,Odontopediatría Integral,Alejandro Vélez,Sofía Ramírez,Corona Totalmente Ceramica,"17, 20, 26, 47",D3,Vitapan,True,Revisar oclusión.,2025-04-15,2025-04-19,,True
+355,Dr. Miguel Ángel Sierra,Juan Pablo Gómez,Nicolás Castro,Placa Estetica,"48, 24",A1,Vitapan,False,Requiere ajuste.,2025-01-26,2025-02-03,,True
+356,Dra. Liliana Cifuentes,Elena Gómez,Mariana Vélez,Corona sobre Implante con T-base,16,A3.5,Biodent,True,Alta estética.,2024-09-20,2024-09-30,2024-10-04,False
+357,Andrea Carolina Mesa,Carlos López,David Zuluaga,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-10-22,2024-10-27,,True
+358,Implantes Dentales Medellín,Ricardo Pérez,Martín Quintero,Hyrax,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-02-05,2025-02-12,2025-02-17,False
+359,Dr. Juan Pablo Gómez,Patricia Acevedo,Gabriela Morales,Guia Quirurgica,Superior,N/A,N/A,False,Requiere ajuste.,2024-12-05,2024-12-08,2024-12-15,False
+360,Dr. Juan Pablo Gómez,Andrés Felipe Castro,Carolina Rivera,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2025-03-08,2025-03-12,,True
+361,Salud Oral Integral,Mateo Vargas,David Zuluaga,Corona sobre Implante con Pilar Titanio,35,B4,Duratone,False,Procedimiento rutinario.,2025-04-06,2025-04-15,,True
+362,Dra. Sara Jaramillo,Andrea Carolina Mesa,Daniela Valencia,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Revisar oclusión.,2025-01-10,2025-01-18,2025-01-25,False
+363,Odonto Sonrisa,Andrés Felipe Castro,Carlos Andrés Ruiz,Corona sobre Implante con Pilar Personalizado,"15, 15",OM3,Vita 3D Master,True,Paciente sensible.,2025-01-27,2025-02-04,2025-02-07,False
+364,Dr. Camilo Gaviria,Javier Restrepo,Mateo Giraldo,Corona sobre Implante con Pilar Personalizado,"21, 36, 44",B4,Vitapan,True,Paciente sensible.,2024-06-10,2024-06-17,2024-06-22,False
+365,Dra. Liliana Cifuentes,Laura Ospina,Mariana Vélez,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Alta estética.,2024-07-27,2024-08-01,,True
+366,Dr. Mauricio Restrepo,Andrea Giraldo,Alejandro Herrera,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Procedimiento rutinario.,2024-10-31,2024-11-08,2024-11-13,False
+367,VitalDent,Martín Valencia,Carlos Andrés Ruiz,Guia Quirurgica,Superior,N/A,N/A,True,Requiere ajuste.,2024-10-22,2024-10-26,,True
+368,OdontoKids,Pedro Sánchez,Ana Sofía Correa,Placa de Bruxismo,Superior,N/A,N/A,False,Revisar oclusión.,2025-05-17,2025-05-24,,True
+369,OdontoKids,Ricardo Pérez,Luisa Fernanda Echeverri,Provisional,"16, 25, 30",BL3,Duratone,False,Procedimiento rutinario.,2024-09-09,2024-09-17,2024-09-18,False
+370,Dr. Mauricio Restrepo,Juan José Correa,Isabella Mejía,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Requiere ajuste.,2024-12-09,2024-12-16,2024-12-22,False
+371,Sonrisas Sanas,Juan Pablo Gómez,Camila Montoya,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Alta estética.,2024-08-01,2024-08-05,2024-08-08,False
+372,Clínica Dental Bienestar,Elena Gómez,Sara Victoria Tamayo,Perno,"39, 45",N/A,N/A,True,Alta estética.,2024-12-22,2025-01-01,2025-01-07,False
+373,Diana Marcela Ríos,Mateo Vargas,Juan Camilo Botero,Corona Metal Ceramica,"46, 18, 34, 43",D2,Vitapan,True,Alta estética.,2024-11-23,2024-12-02,2024-12-07,False
+374,Mariana Vélez,Martín Valencia,Esteban Saldarriaga,Protesis Removible,"33, 31, 28, 22",A3.5,Vitapan,True,Revisar oclusión.,2024-09-04,2024-09-09,2024-09-11,False
+375,Smile Design Center,Ricardo Pérez,Nicolás Castro,Placa de Bruxismo,Superior,N/A,N/A,True,Paciente sensible.,2025-04-12,2025-04-14,2025-04-19,False
+376,Dental Kids,Sebastián Alzate,Julian Alberto Cano,Placa Estetica,"11, 22, 33",C4,Duratone,False,Paciente sensible.,2024-12-11,2024-12-16,,True
+377,Dr. Fernando Quintero,Valentina Cano,Diego Alejandro Sierra,Corona sobre Implante con Pilar Personalizado,"33, 12",BL1,Vitapan,False,Requiere ajuste.,2025-05-21,2025-05-28,2025-06-01,False
+378,Ortodoncia Plus,Andrés Felipe Castro,Valeria Alejandra Gil,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-10-30,2024-11-02,,True
+379,Jorge Alberto Ruiz,Carlos López,Ricardo Alfonso Hoyos,Guia Quirurgica,Superior,N/A,N/A,True,Paciente sensible.,2024-11-02,2024-11-07,,True
+380,Clínica Dental Nova,Isabella Sierra,Paula Andrea Díaz,Perno,28,N/A,N/A,False,Requiere ajuste.,2024-07-22,2024-07-23,,True
+381,Oral Health Solutions,Camilo Gaviria,Catalina Rendón,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-09-01,2024-09-07,2024-09-09,False
+382,Dr. Camilo Gaviria,Mauricio Rodriguez,Luisa Fernanda Echeverri,Corona sobre Implante con T-base,"25, 36, 20",C4,Biodent,False,Requiere ajuste.,2024-06-26,2024-06-27,2024-07-03,False
+383,Dr. Fernando Quintero,Miguel Ángel Sierra,Nicolás Castro,Corona sobre Implante con Pilar Titanio,"26, 24, 19, 16",OM2,Biodent,True,Revisar oclusión.,2024-12-05,2024-12-11,2024-12-15,False
+384,Dr. Fernando Quintero,Patricia Acevedo,Valeria Alejandra Gil,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Revisar oclusión.,2025-02-28,2025-03-08,2025-03-09,False
+385,Maxilofacial & Implantes,Felipe Montoya,Andrés Felipe Marulanda,Hyrax,Inferior,N/A,N/A,True,Revisar oclusión.,2025-01-26,2025-01-29,,True
+386,Oral Health Solutions,Ricardo Pérez,Paulina Alzate,Placa Estetica,"39, 15",D4,Biodent,True,Revisar oclusión.,2024-08-17,2024-08-27,2024-09-02,False
+387,Sonrisas Sanas,Diana Marcela Ríos,Juan Pablo Arias,Corona Totalmente Ceramica,41,B3,Vitapan,False,Revisar oclusión.,2025-05-10,2025-05-16,2025-05-17,False
+388,Dr. Mauricio Restrepo,Santiago Rojas,José Miguel Soto,Hyrax,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2025-04-13,2025-04-15,2025-04-22,False
+389,Salud Oral Integral,Clara Inés Duque,Valeria López,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,True,Requiere ajuste.,2025-04-22,2025-04-28,,True
+390,Odontopediatría Integral,Felipe Montoya,Santiago Pérez,Corona sobre Implante con Pilar Personalizado,"24, 42",A3.5,Duratone,True,Alta estética.,2025-01-08,2025-01-18,,True
+391,Dr. Juan Pablo Gómez,Carolina Mesa,Manuela Cárdenas,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-05-31,2025-06-06,2025-06-13,False
+392,Dra. Sofía Vargas,Mauricio Rodriguez,Esteban Saldarriaga,Protesis Removible,"16, 16, 18",BL4,Vitapan,False,Alta estética.,2025-03-27,2025-04-02,2025-04-07,False
+393,Salud Dental Familiar,Elena Gómez,Carolina Rivera,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Requiere ajuste.,2024-08-27,2024-08-31,,True
+394,Mariana Vélez,Jorge Alberto Ruiz,Julian Alberto Cano,Perno,"12, 43, 20, 42",N/A,N/A,True,Revisar oclusión.,2025-05-01,2025-05-10,2025-05-15,False
+395,Sonrisas Brillantes,Gabriela Rojas,Laura Cristina Jaramillo,Corona Totalmente Ceramica,"33, 12, 25, 19",BL2,Vita 3D Master,True,Revisar oclusión.,2025-04-18,2025-04-22,2025-04-27,False
+396,Mariana Vélez,Mateo Vargas,Isabella Mejía,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-04-15,2025-04-18,2025-04-19,False
+397,Implantes Dentales Medellín,Roberto Morales,Alejandro Herrera,Corona sobre Implante con Pilar Titanio,"40, 33",BL1,Duratone,False,Procedimiento rutinario.,2024-11-11,2024-11-12,2024-11-15,False
+398,Oral Health Solutions,Laura Ospina,Valeria Alejandra Gil,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-09-28,2024-10-08,,True
+399,Maxilofacial & Implantes,Ana María Pérez,Felipe Marín,Provisional,16,A3,Biodent,False,Requiere ajuste.,2025-02-26,2025-03-04,2025-03-09,False
+400,Dr. Camilo Gaviria,Jorge Alberto Ruiz,Luisa Fernanda Echeverri,Placa de Bruxismo,Inferior,N/A,N/A,False,Paciente sensible.,2024-11-09,2024-11-12,,True
+401,Dra. Sofía Vargas,Sebastián Alzate,Carlos Andrés Ruiz,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Paciente sensible.,2025-01-17,2025-01-20,2025-01-25,False
+402,Clínica Dental del Centro,Gabriela Rojas,Isabella Mejía,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-06-29,2024-07-07,2024-07-08,False
+403,Dental Excellence,Diego Salazar,Alejandro Herrera,Corona Totalmente Ceramica,44,D2,Duratone,False,Paciente sensible.,2024-12-25,2024-12-30,,True
+404,Sonrisas Saludables,Luisa Fernanda Díaz,Catalina Rendón,Hyrax,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-03-09,2025-03-17,,True
+405,Diana Marcela Ríos,Javier Restrepo,Victoria Suárez,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,True,Requiere ajuste.,2025-04-15,2025-04-23,,True
+406,Clínica Dental Sonríe,Sara Jaramillo,Mariana Vélez,Placa de Bruxismo,Inferior,N/A,N/A,False,Revisar oclusión.,2025-02-05,2025-02-14,2025-02-18,False
+407,Sonrisas Saludables,María Fernanda Ortiz,Andrea Gómez,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-01-13,2025-01-23,2025-01-24,False
+408,Clínica Dental Nova,José Luis Cardona,Laura Cristina Jaramillo,Provisional,"30, 33, 39, 25",A3.5,Vitapan,True,Requiere ajuste.,2024-08-31,2024-09-04,2024-09-09,False
+409,Dra. Sofía Vargas,Camilo Torres,Simón Orozco,Placa Estetica,"16, 25, 27",B3,Biodent,False,Procedimiento rutinario.,2024-08-31,2024-09-09,2024-09-14,False
+410,Maxilofacial & Implantes,Jorge Alberto Ruiz,Silvana Restrepo,Placa Estetica,"40, 19, 13, 48",BL3,Biodent,False,Revisar oclusión.,2024-11-23,2024-11-24,,True
+411,Andrea Carolina Mesa,Patricia Acevedo,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,True,Alta estética.,2025-05-28,2025-05-29,2025-05-30,False
+412,Andrea Carolina Mesa,Carlos López,Daniela Valencia,Perno,"19, 26, 36, 22",N/A,N/A,True,Requiere ajuste.,2025-05-16,2025-05-23,2025-05-29,False
+413,Dra. Clara Inés Duque,Sara Jaramillo,Camila Montoya,Placa de Bruxismo,Superior,N/A,N/A,True,Requiere ajuste.,2025-05-10,2025-05-12,,True
+414,Sonrisas Sanas,Isabella Sierra,Cristian Bermúdez,Hyrax,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-04-04,2025-04-11,2025-04-16,False
+415,Dr. Juan Pablo Gómez,Daniela Marín,Daniela Valencia,Corona sobre Implante con Pilar Titanio,"48, 26",BL4,Vitapan,False,Procedimiento rutinario.,2025-03-15,2025-03-17,,True
+416,Odontología Estética,Valentina Cano,Carlos Andrés Ruiz,Provisional,28,A2,Vita 3D Master,False,Alta estética.,2024-06-27,2024-06-29,2024-07-03,False
+417,Clínica Dental del Centro,Juan Pablo Gómez,Valeria Alejandra Gil,Corona sobre Implante con T-base,"46, 39",B4,Vita 3D Master,False,Paciente sensible.,2025-03-05,2025-03-06,,True
+418,Centro Estético Dental,Esteban Zuluaga,Daniel Alzate,Placa de Bruxismo,Inferior,N/A,N/A,False,Revisar oclusión.,2025-03-06,2025-03-08,,True
+419,Implantes Dentales Medellín,Andrea Carolina Mesa,Emmanuel Franco,Perno,"23, 27, 19",N/A,N/A,False,Procedimiento rutinario.,2024-06-07,2024-06-12,2024-06-19,False
+420,Sebastián Alzate,Lorena Henao,Ricardo Alfonso Hoyos,Provisional,"29, 38",BL3,Biodent,True,Paciente sensible.,2024-11-28,2024-12-05,2024-12-08,False
+421,VitalDent,Juan Felipe Restrepo,Cristian Bermúdez,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,True,Requiere ajuste.,2024-08-21,2024-08-23,2024-08-24,False
+422,Dra. Liliana Cifuentes,Roberto Morales,Laura Giraldo,Guia Quirurgica,Inferior,N/A,N/A,False,Requiere ajuste.,2024-12-11,2024-12-16,2024-12-22,False
+423,Dr. Miguel Ángel Sierra,Luisa Fernanda Díaz,Natalia Andrea Vélez,Corona Metal Ceramica,30,D2,Duratone,False,Requiere ajuste.,2025-03-14,2025-03-22,2025-03-23,False
+424,Natalia Soto,Mateo Vargas,Daniela Valencia,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Alta estética.,2024-07-28,2024-08-05,,True
+425,Odontología Estética,Ana María Pérez,José Miguel Soto,Corona Totalmente Ceramica,"17, 16",A3,Duratone,False,Procedimiento rutinario.,2024-07-15,2024-07-19,,True
+426,Odonto Sonrisa,Diego Salazar,Lucía Osorio,Corona sobre Implante con Pilar Titanio,"36, 17, 29, 31",D4,Vitapan,True,Paciente sensible.,2025-05-03,2025-05-05,,True
+427,Sonrisas Sanas,Carlos López,Daniela Valencia,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-10-24,2024-11-02,2024-11-09,False
+428,Dr. Mauricio Restrepo,Jorge Alberto Ruiz,Sofía Ramírez,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-09-26,2024-10-01,,True
+429,DentistPro,Paula Andrea Morales,Camila Montoya,Placa de Bruxismo,Superior,N/A,N/A,True,Revisar oclusión.,2025-02-21,2025-02-24,2025-03-02,False
+430,Sebastián Alzate,Pablo Escobar,Camila Montoya,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-11-29,2024-12-03,,True
+431,Estética Dental Premium,Isabella Sierra,Samuel Bustamante,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,False,Alta estética.,2025-03-10,2025-03-18,2025-03-21,False
+432,Ortodoncia Plus,Diego Salazar,Cristian Bermúdez,Placa de Bruxismo,Inferior,N/A,N/A,False,Paciente sensible.,2024-06-10,2024-06-11,2024-06-12,False
+433,Clínica Dental Sonríe,Pedro Sánchez,Miguel Ángel Tobón,Corona Metal Ceramica,"29, 20, 25",D2,Biodent,True,Alta estética.,2024-06-10,2024-06-18,2024-06-25,False
+434,Ortodoncia Avanzada,Roberto Morales,Paula Andrea Díaz,Protesis Removible,46,B2,Vita 3D Master,True,Alta estética.,2024-12-29,2024-12-31,,True
+435,Jorge Alberto Ruiz,Diana Marcela Ríos,Sebastián Duque,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-04-27,2025-04-30,2025-05-01,False
+436,Sonrisas Sanas,Roberto Morales,Julian Alberto Cano,Perno,"22, 25",N/A,N/A,False,Requiere ajuste.,2024-10-06,2024-10-12,2024-10-15,False
+437,Dr. Camilo Gaviria,Santiago Rojas,Lucía Osorio,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,True,Paciente sensible.,2024-08-05,2024-08-11,2024-08-17,False
+438,Dra. Sofía Vargas,Lorena Henao,Mariana Vélez,Perno,"22, 29",N/A,N/A,True,Requiere ajuste.,2024-08-26,2024-08-29,,True
+439,Clínica Dental Nova,Andrea Giraldo,Isabella Mejía,Perno,"44, 31, 18",N/A,N/A,False,Procedimiento rutinario.,2025-01-29,2025-02-05,,True
+440,Odontología Estética,Carolina Mesa,Catalina Rendón,Perno,11,N/A,N/A,True,Revisar oclusión.,2024-08-22,2024-08-30,,True
+441,Clínica Dental del Centro,Juan José Correa,Laura Cristina Jaramillo,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,True,Alta estética.,2025-04-17,2025-04-22,,True
+442,Dr. Mauricio Restrepo,Camilo Gaviria,Angie Paola Vargas,Protesis Removible,"19, 47, 17",A3.5,Vita 3D Master,False,Paciente sensible.,2024-11-08,2024-11-18,,True
+443,Clínica Dental Nova,Pablo Escobar,Martín Quintero,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-08-03,2024-08-12,2024-08-16,False
+444,Dental Excellence,Daniela Marín,Catalina Rendón,Placa Estetica,42,C3,Duratone,False,Alta estética.,2024-11-14,2024-11-20,,True
+445,Dr. Camilo Gaviria,Javier Restrepo,Gabriela Morales,Corona Totalmente Ceramica,"27, 39, 48",B2,Vita 3D Master,True,Revisar oclusión.,2024-06-25,2024-06-27,,True
+446,Sonrisas Brillantes,Alejandro Vélez,Diego Alejandro Sierra,Corona Totalmente Ceramica,"15, 13, 48",OM2,Vitapan,False,Alta estética.,2025-02-14,2025-02-20,2025-02-27,False
+447,Sonrisas Brillantes,Sara Jaramillo,Cristian Bermúdez,Corona sobre Implante con Pilar Titanio,11,OM3,Vita 3D Master,True,Revisar oclusión.,2024-09-15,2024-09-19,2024-09-21,False
+448,Andrea Carolina Mesa,Lorena Henao,Miguel Ángel Tobón,Hyrax,Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-08-13,2024-08-17,,True
+449,DentistPro,María Fernanda Ortiz,Victoria Suárez,Corona Metal Ceramica,"27, 35",A1,Duratone,False,Procedimiento rutinario.,2024-07-06,2024-07-11,,True
+450,Dr. Fernando Quintero,Paula Andrea Morales,Carolina Rivera,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-12-05,2024-12-13,,True
+451,VitalDent,Mauricio Restrepo,Mariana Vélez,Corona sobre Implante con T-base,43,B1,Vitapan,True,Paciente sensible.,2024-10-21,2024-10-27,,True
+452,Natalia Soto,Andrés Felipe Castro,Sebastián Duque,Placa de Bruxismo,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-09-04,2024-09-06,2024-09-13,False
+453,Dr. Alejandro Vélez,Diana Marcela Ríos,Simón Orozco,Corona sobre Implante con T-base,"27, 26, 17, 20",B1,Biodent,False,Requiere ajuste.,2024-11-05,2024-11-15,,True
+454,Ortodoncia Plus,Carlos López,David Zuluaga,Corona sobre Implante con Pilar Personalizado,"33, 36, 21, 44",B3,Duratone,False,Requiere ajuste.,2024-07-03,2024-07-10,2024-07-13,False
+455,Sebastián Alzate,Alejandro Vélez,Daniela Valencia,Protesis Removible,"40, 42, 30",C1,Vita 3D Master,False,Alta estética.,2024-06-26,2024-07-03,2024-07-09,False
+456,Luisa Fernanda Díaz,María Fernanda Ortiz,Julian Alberto Cano,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,True,Procedimiento rutinario.,2024-08-09,2024-08-12,,True
+457,Dr. Camilo Gaviria,Carolina Mesa,Juan David Restrepo,Corona Metal Ceramica,"28, 14, 28, 48",A2,Vitapan,False,Procedimiento rutinario.,2025-02-20,2025-02-25,2025-02-28,False
+458,Sonrisas Sanas,Sofía Vargas,Manuela Cárdenas,Provisional,46,C2,Duratone,False,Procedimiento rutinario.,2025-02-21,2025-03-02,2025-03-06,False
+459,Sebastián Alzate,Mauricio Restrepo,Mariana Vélez,Protesis Removible,"25, 37, 43, 19",BL2,Vita 3D Master,False,Procedimiento rutinario.,2024-11-03,2024-11-13,,True
+460,Dr. Mauricio Restrepo,Pablo Escobar,Gabriela Morales,Hyrax,Superior,N/A,N/A,False,Procedimiento rutinario.,2025-02-02,2025-02-09,,True
+461,Sonrisas Saludables,Andrés Felipe Castro,David Zuluaga,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Requiere ajuste.,2024-09-09,2024-09-13,,True
+462,Salud Oral Integral,Santiago Rojas,Valentina Ospina,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Alta estética.,2025-04-24,2025-05-01,2025-05-04,False
+463,Centro Odontológico Integral,Miguel Ángel Sierra,Martín Quintero,Corona sobre Implante con Pilar Titanio,"33, 31, 46",A2,Vitapan,True,Alta estética.,2024-08-04,2024-08-12,2024-08-18,False
+464,Dra. Sara Jaramillo,Laura Ospina,Paulina Alzate,Protesis Removible,18,C3,Duratone,False,Requiere ajuste.,2025-05-16,2025-05-22,2025-05-23,False
+465,Odontopediatría Integral,Valentina Cano,Martín Quintero,Perno,"27, 42, 47",N/A,N/A,False,Alta estética.,2024-07-09,2024-07-14,2024-07-21,False
+466,Clínica Dental Armonía,Camilo Torres,Andrea Gómez,Perno,"12, 32",N/A,N/A,False,Revisar oclusión.,2024-12-25,2025-01-04,2025-01-10,False
+467,Dr. Mauricio Restrepo,Valeria Duque,Camila Montoya,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-10-08,2024-10-16,2024-10-20,False
+468,Odonto Sonrisa,David Ospina,Isabella Mejía,Perno,"46, 48, 47, 17",N/A,N/A,False,Revisar oclusión.,2025-01-02,2025-01-12,2025-01-19,False
+469,Clínica Dental Sonríe,Carlos López,Carolina Rivera,Corona sobre Implante con T-base,42,A2,Biodent,False,Requiere ajuste.,2024-08-19,2024-08-28,,True
+470,Clínica Dental Nova,Juan José Correa,Andrea Gómez,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-08-19,2024-08-20,2024-08-27,False
+471,Dr. Miguel Ángel Sierra,Andrea Giraldo,Diego Alejandro Sierra,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,True,Requiere ajuste.,2024-08-06,2024-08-14,2024-08-18,False
+472,Centro Odontológico Integral,Camilo Torres,Gabriela Morales,Corona Metal Ceramica,30,OM2,Vitapan,False,Revisar oclusión.,2024-08-28,2024-08-31,2024-09-02,False
+473,Dr. Alejandro Vélez,Andrés Felipe Castro,Alejandro Herrera,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Alta estética.,2024-09-16,2024-09-26,2024-10-02,False
+474,Ortodoncia Plus,Mariana Vélez,Miguel Ángel Tobón,Placa de Bruxismo,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2025-05-12,2025-05-15,2025-05-21,False
+475,Diana Marcela Ríos,Juan Felipe Restrepo,Mariana Vélez,Perno,16,N/A,N/A,True,Procedimiento rutinario.,2025-01-12,2025-01-21,2025-01-26,False
+476,Clínica Dental del Norte,Diego Salazar,Daniela Valencia,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Revisar oclusión.,2024-07-09,2024-07-18,,True
+477,Luisa Fernanda Díaz,Felipe Montoya,Santiago Pérez,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2024-08-28,2024-09-03,2024-09-07,False
+478,Sebastián Alzate,Patricia Acevedo,Samuel Bustamante,Protesis Removible,45,D3,Vitapan,True,Revisar oclusión.,2024-06-05,2024-06-08,2024-06-10,False
+479,Dr. Fernando Quintero,Paula Andrea Morales,Andrés Felipe Marulanda,Corona sobre Implante con Pilar Personalizado,13,C2,Vita 3D Master,True,Paciente sensible.,2024-09-22,2024-09-29,,True
+480,Clínica Dental del Norte,Sebastián Alzate,Martín Quintero,Corona Totalmente Ceramica,"30, 43",A3,Vita 3D Master,False,Paciente sensible.,2024-08-08,2024-08-12,2024-08-14,False
+481,Clínica Dental del Centro,Paula Andrea Morales,Laura Giraldo,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Requiere ajuste.,2024-06-28,2024-06-30,2024-07-05,False
+482,Sonrisas Brillantes,Liliana Cifuentes,Arturo Montoya,Corona Metal Ceramica,"14, 36",A3,Vita 3D Master,True,Alta estética.,2025-02-19,2025-02-20,2025-02-26,False
+483,Dr. Juan Pablo Gómez,David Ospina,Juan Camilo Botero,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2024-08-29,2024-09-07,2024-09-12,False
+484,Dr. Juan Pablo Gómez,Diana Marcela Ríos,Valentina Ospina,Guia Quirurgica,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-11-11,2024-11-19,2024-11-23,False
+485,Pedro Sánchez,Valeria Duque,Mateo Giraldo,Hyrax,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-08-18,2024-08-26,,True
+486,Pedro Sánchez,Juan Felipe Restrepo,Sofía Ramírez,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,True,Alta estética.,2024-11-05,2024-11-08,2024-11-10,False
+487,Clínica Dental Familias,Ana María Pérez,Felipe Marín,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-07-15,2024-07-21,2024-07-26,False
+488,Dental Kids,Carolina Mesa,Isabella Mejía,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-07-12,2024-07-18,2024-07-23,False
+489,OdontoKids,Liliana Cifuentes,Silvana Restrepo,Corona sobre Implante con Pilar Personalizado,"20, 45, 29, 15",B3,Biodent,True,Requiere ajuste.,2024-06-19,2024-06-24,2024-06-30,False
+490,Clínica Dental Armonía,David Ospina,Laura Cristina Jaramillo,Protesis Removible,24,A2,Vitapan,False,Revisar oclusión.,2024-12-30,2024-12-31,2025-01-04,False
+491,Dra. Sara Jaramillo,Ricardo Pérez,Julian Alberto Cano,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Alta estética.,2025-02-08,2025-02-17,2025-02-18,False
+492,Clínica Dental Bienestar,María Fernanda Ortiz,Martín Quintero,Guia Quirurgica,Superior,N/A,N/A,False,Revisar oclusión.,2025-03-21,2025-03-30,,True
+493,OdontoKids,Isabella Sierra,Juan David Restrepo,Corona sobre Implante con Pilar Titanio,"31, 46, 25",C2,Vitapan,True,Procedimiento rutinario.,2025-03-29,2025-04-01,2025-04-04,False
+494,Estética Dental Premium,Diana Marcela Ríos,Paula Andrea Díaz,Corona sobre Implante con Pilar Titanio,"39, 28",C4,Biodent,True,Revisar oclusión.,2025-05-15,2025-05-17,2025-05-22,False
+495,Dr. Juan Pablo Gómez,Fernando Quintero,Natalia Andrea Vélez,Protesis Removible,"30, 12, 31, 47",C3,Duratone,False,Revisar oclusión.,2024-12-26,2025-01-03,2025-01-07,False
+496,Sonrisas Saludables,Daniela Marín,Natalia Andrea Vélez,Corona Totalmente Ceramica,"42, 37, 48",A1,Duratone,False,Procedimiento rutinario.,2025-05-25,2025-05-31,2025-06-05,False
+497,Clínica Dental del Norte,María Fernanda Ortiz,Cristian Bermúdez,Hyrax,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-01-20,2025-01-29,,True
+498,Smile Design Center,Javier Restrepo,Sofía Ramírez,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Revisar oclusión.,2024-10-16,2024-10-21,2024-10-22,False
+499,Clínica Dental Familias,Sofía Vargas,Laura Giraldo,Hyrax,Inferior,N/A,N/A,True,Requiere ajuste.,2025-04-17,2025-04-21,,True
+500,David Ospina,Natalia Soto,Victoria Suárez,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-10-27,2024-11-02,2024-11-03,False
+501,Sebastián Alzate,Juan José Correa,Nicolás Castro,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-02-17,2025-02-21,2025-02-22,False
+502,Implantes Dentales Medellín,Paula Andrea Morales,Esteban Saldarriaga,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Revisar oclusión.,2024-08-09,2024-08-17,2024-08-18,False
+503,Smile Design Center,Santiago Rojas,Sofía Ramírez,Corona sobre Implante con Pilar Titanio,18,C1,Vitapan,True,Paciente sensible.,2024-11-16,2024-11-22,2024-11-28,False
+504,Clínica Dental Sonríe,Mauricio Rodriguez,Diego Alejandro Sierra,Protesis Removible,"12, 20",BL4,Biodent,False,Paciente sensible.,2025-01-05,2025-01-07,2025-01-10,False
+505,Dental Excellence,Juan José Correa,Sofía Ramírez,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Alta estética.,2024-06-22,2024-06-29,2024-07-03,False
+506,Salud Dental Familiar,Camilo Gaviria,Juan David Restrepo,Corona sobre Implante con Pilar Titanio,"19, 32",A4,Vita 3D Master,False,Alta estética.,2025-05-07,2025-05-10,2025-05-14,False
+507,Jorge Alberto Ruiz,Miguel Ángel Sierra,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-01-13,2025-01-23,2025-01-28,False
+508,Sebastián Alzate,Diana Marcela Ríos,Alejandro Herrera,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Procedimiento rutinario.,2024-10-13,2024-10-15,,True
+509,Dental Excellence,Alejandro Vélez,Laura Giraldo,Perno,24,N/A,N/A,True,Requiere ajuste.,2025-02-09,2025-02-15,,True
+510,Dr. Fernando Quintero,Isabella Sierra,Valentina Ospina,Corona sobre Implante con Pilar Titanio,"11, 42, 22",D3,Duratone,True,Revisar oclusión.,2024-08-31,2024-09-01,2024-09-03,False
+511,Ortodoncia Plus,Santiago Rojas,Santiago Pérez,Corona sobre Implante con T-base,"12, 19, 30, 15",C3,Vita 3D Master,False,Revisar oclusión.,2024-09-23,2024-10-03,2024-10-05,False
+512,Dental Kids,Andrés Felipe Castro,Paula Andrea Díaz,Corona sobre Implante con T-base,"21, 22",C3,Biodent,False,Revisar oclusión.,2024-12-04,2024-12-05,,True
+513,Sebastián Alzate,Valeria Duque,Andrés Felipe Marulanda,Hyrax,Inferior,N/A,N/A,True,Paciente sensible.,2025-04-13,2025-04-15,2025-04-17,False
+514,Clínica Dental Nova,Santiago Rojas,Samuel Bustamante,Perno,"14, 40, 27",N/A,N/A,False,Requiere ajuste.,2024-12-22,2024-12-25,,True
+515,Natalia Soto,Andrés Felipe Castro,Julian Alberto Cano,Placa Estetica,"45, 37, 38, 23",A4,Duratone,False,Paciente sensible.,2025-04-03,2025-04-09,,True
+516,Pedro Sánchez,Javier Restrepo,Mariana Vélez,Corona sobre Implante con Pilar Titanio,"39, 20, 17",C2,Duratone,True,Paciente sensible.,2024-08-18,2024-08-21,,True
+517,Andrea Carolina Mesa,Valeria Duque,Isabella Mejía,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Requiere ajuste.,2024-10-31,2024-11-08,2024-11-10,False
+518,Dr. Alejandro Vélez,Javier Restrepo,Ricardo Alfonso Hoyos,Corona sobre Implante con Pilar Titanio,37,C1,Biodent,True,Requiere ajuste.,2024-08-08,2024-08-16,,True
+519,Luisa Fernanda Díaz,Felipe Montoya,Camila Montoya,Corona sobre Implante con Pilar Titanio,"27, 20",BL1,Duratone,False,Procedimiento rutinario.,2025-01-29,2025-02-05,2025-02-09,False
+520,Ortodoncia Plus,Isabella Sierra,Sofía Ramírez,Corona sobre Implante con Pilar Titanio,"46, 24",OM2,Biodent,True,Revisar oclusión.,2024-10-26,2024-11-03,2024-11-06,False
+521,David Ospina,Laura Ospina,Simón Orozco,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,True,Paciente sensible.,2024-10-13,2024-10-17,,True
+522,Odontopediatría Integral,Isabella Sierra,Arturo Montoya,Perno,31,N/A,N/A,True,Procedimiento rutinario.,2025-01-19,2025-01-26,2025-01-29,False
+523,Luisa Fernanda Díaz,Roberto Morales,Valentina Ospina,Protesis Removible,33,B1,Vitapan,True,Paciente sensible.,2024-07-04,2024-07-12,,True
+524,Clínica Odontológica del Sur,Laura Ospina,Andrea Gómez,Protesis Removible,"36, 19, 12, 29",B3,Vitapan,False,Revisar oclusión.,2025-02-08,2025-02-15,2025-02-22,False
+525,Smile Design Center,Laura Ospina,Mateo Giraldo,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Paciente sensible.,2024-10-08,2024-10-09,,True
+526,Jorge Alberto Ruiz,Elena Gómez,Andrea Gómez,Provisional,"33, 22",B3,Biodent,True,Procedimiento rutinario.,2024-06-16,2024-06-18,2024-06-23,False
+527,DentistPro,Fernando Quintero,Valeria López,Corona sobre Implante con Pilar Titanio,"41, 47, 31, 43",C1,Vita 3D Master,True,Requiere ajuste.,2024-12-21,2024-12-22,2024-12-29,False
+528,OdontoKids,Esteban Zuluaga,Camila Montoya,Perno,"17, 45, 44",N/A,N/A,False,Requiere ajuste.,2025-02-23,2025-03-01,,True
+529,Centro Odontológico Integral,María Fernanda Ortiz,Daniel Alzate,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-08-06,2024-08-07,2024-08-11,False
+530,Natalia Soto,Javier Restrepo,Paulina Alzate,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-08-30,2024-09-07,,True
+531,Clínica Dental Nova,Ana María Pérez,Nicolás Castro,Corona Totalmente Ceramica,40,OM3,Biodent,False,Paciente sensible.,2025-05-15,2025-05-18,,True
+532,David Ospina,Juan José Correa,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Paciente sensible.,2024-06-20,2024-06-29,2024-06-30,False
+533,Ortodoncia Plus,Daniela Marín,Laura Cristina Jaramillo,Corona Totalmente Ceramica,46,B1,Vita 3D Master,True,Requiere ajuste.,2025-03-12,2025-03-13,2025-03-14,False
+534,VitalDent,Camilo Gaviria,Isabella Mejía,Placa Estetica,"37, 35, 24, 44",B1,Biodent,False,Alta estética.,2024-09-23,2024-09-27,2024-09-29,False
+535,Ortodoncia Avanzada,Andrea Carolina Mesa,David Zuluaga,Corona sobre Implante con T-base,"46, 17",D2,Vita 3D Master,True,Revisar oclusión.,2025-04-03,2025-04-08,2025-04-11,False
+536,Mariana Vélez,Sara Jaramillo,Manuela Cárdenas,Corona sobre Implante con T-base,"33, 35, 22",A3.5,Vitapan,False,Paciente sensible.,2024-09-09,2024-09-19,2024-09-23,False
+537,Salud Dental Familiar,Roberto Morales,Carlos Andrés Ruiz,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Paciente sensible.,2025-01-19,2025-01-29,2025-02-05,False
+538,Luisa Fernanda Díaz,David Ospina,Paulina Alzate,Corona Metal Ceramica,"48, 13",A4,Biodent,True,Revisar oclusión.,2024-11-04,2024-11-14,,True
+539,Dra. Clara Inés Duque,Carlos López,Victoria Suárez,Corona sobre Implante con Pilar Personalizado,"11, 46, 26, 48",D4,Duratone,False,Revisar oclusión.,2024-11-22,2024-11-28,2024-12-02,False
+540,Odontología Estética,Alejandro Vélez,Andrés Felipe Marulanda,Corona Totalmente Ceramica,"37, 44, 48, 34",BL2,Vitapan,True,Paciente sensible.,2024-10-23,2024-10-27,,True
+541,Natalia Soto,Camilo Gaviria,Paulina Alzate,Corona sobre Implante con Pilar Personalizado,"39, 22, 11",OM3,Duratone,False,Revisar oclusión.,2025-01-02,2025-01-09,2025-01-14,False
+542,Dr. Juan Pablo Gómez,Esteban Zuluaga,Julian Alberto Cano,Corona sobre Implante con T-base,26,B2,Biodent,False,Procedimiento rutinario.,2025-02-04,2025-02-07,,True
+543,Dra. Liliana Cifuentes,Camilo Gaviria,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Revisar oclusión.,2025-01-09,2025-01-18,2025-01-21,False
+544,Sonrisas Saludables,Mauricio Rodriguez,Andrea Gómez,Corona sobre Implante con Pilar Titanio,47,BL2,Vita 3D Master,False,Paciente sensible.,2024-09-08,2024-09-16,2024-09-20,False
+545,Dental Excellence,Andrés Felipe Castro,Camila Montoya,Corona sobre Implante con T-base,"35, 28",C4,Vitapan,True,Revisar oclusión.,2024-09-23,2024-09-27,,True
+546,Sonrisas Saludables,Sara Jaramillo,Sofía Ramírez,Corona Metal Ceramica,13,A1,Vitapan,True,Procedimiento rutinario.,2025-01-18,2025-01-27,,True
+547,OdontoKids,Juan José Correa,Samuel Bustamante,Perno,"34, 47, 29",N/A,N/A,True,Requiere ajuste.,2024-09-10,2024-09-16,,True
+548,VitalDent,Juan Felipe Restrepo,Mariana Vélez,Provisional,37,B2,Vita 3D Master,False,Alta estética.,2024-07-23,2024-07-27,2024-08-02,False
+549,Ortodoncia Avanzada,Ana María Pérez,Sebastián Duque,Perno,"32, 20, 36, 13",N/A,N/A,False,Revisar oclusión.,2024-08-13,2024-08-19,2024-08-21,False
+550,Diana Marcela Ríos,María Fernanda Ortiz,Valeria Alejandra Gil,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Alta estética.,2025-06-01,2025-06-02,,True
+551,Jorge Alberto Ruiz,Sofía Vargas,Sebastián Duque,Corona sobre Implante con Pilar Personalizado,12,B1,Biodent,True,Alta estética.,2025-01-22,2025-01-31,2025-02-04,False
+552,Juan José Correa,Alejandro Vélez,Daniel Alzate,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Revisar oclusión.,2025-03-27,2025-04-02,,True
+553,Implantes Dentales Medellín,Sebastián Alzate,Paulina Alzate,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-08-01,2024-08-05,2024-08-07,False
+554,Juan José Correa,Valeria Duque,Sofía Ramírez,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,True,Paciente sensible.,2025-01-02,2025-01-07,,True
+555,Dental Excellence,Elena Gómez,Arturo Montoya,Placa Estetica,"26, 47, 25, 37",A1,Vita 3D Master,False,Procedimiento rutinario.,2024-12-12,2024-12-16,,True
+556,Odontopediatría Integral,Martín Valencia,Andrés Felipe Marulanda,Corona Metal Ceramica,"35, 32",BL1,Vita 3D Master,False,Procedimiento rutinario.,2025-01-05,2025-01-13,2025-01-14,False
+557,Dr. Mauricio Restrepo,Juan Felipe Restrepo,Natalia Andrea Vélez,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2025-02-05,2025-02-12,2025-02-19,False
+558,Centro Estético Dental,Lorena Henao,Luisa Fernanda Echeverri,Corona sobre Implante con T-base,"37, 37, 41, 21",C2,Vitapan,True,Paciente sensible.,2024-12-18,2024-12-19,2024-12-24,False
+559,Jorge Alberto Ruiz,Patricia Acevedo,Camila Montoya,Hyrax,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2025-05-11,2025-05-13,2025-05-17,False
+560,Salud Dental Familiar,Clara Inés Duque,Silvana Restrepo,Corona sobre Implante con T-base,"15, 48, 43, 12",B4,Duratone,False,Procedimiento rutinario.,2025-01-01,2025-01-05,2025-01-06,False
+561,Jorge Alberto Ruiz,Esteban Zuluaga,Juan David Restrepo,Protesis Removible,"43, 46",BL1,Duratone,False,Alta estética.,2025-03-31,2025-04-04,,True
+562,Sonrisas Brillantes,Natalia Soto,Juan Pablo Arias,Protesis Removible,"37, 32",D3,Duratone,True,Revisar oclusión.,2024-06-29,2024-07-07,2024-07-12,False
+563,Smile Design Center,Laura Ospina,Carolina Rivera,Placa de Bruxismo,Superior,N/A,N/A,False,Paciente sensible.,2025-03-21,2025-03-29,,True
+564,Centro Odontológico Integral,Roberto Morales,Catalina Rendón,Hyrax,Inferior,N/A,N/A,False,Paciente sensible.,2025-01-11,2025-01-20,2025-01-22,False
+565,Clínica Dental Nova,Ana María Pérez,Andrea Gómez,Perno,"36, 42",N/A,N/A,False,Paciente sensible.,2025-01-29,2025-02-05,,True
+566,Sonrisas Sanas,Paula Andrea Morales,Carolina Rivera,Placa Estetica,27,A1,Vita 3D Master,False,Paciente sensible.,2024-10-15,2024-10-18,2024-10-21,False
+567,OdontoKids,Pablo Escobar,Valentina Ospina,Corona sobre Implante con Pilar Personalizado,"44, 42",OM3,Duratone,False,Revisar oclusión.,2024-12-25,2024-12-28,,True
+568,Sebastián Alzate,Camilo Gaviria,Angie Paola Vargas,Perno,"45, 24",N/A,N/A,False,Revisar oclusión.,2025-05-25,2025-05-31,,True
+569,Dental Excellence,Diana Marcela Ríos,Laura Cristina Jaramillo,Corona sobre Implante con Pilar Personalizado,"29, 19, 37, 13",B2,Duratone,False,Procedimiento rutinario.,2025-05-31,2025-06-09,2025-06-15,False
+570,OdontoKids,Pablo Escobar,Esteban Saldarriaga,Placa de Bruxismo,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-05-05,2025-05-13,,True
+571,Dental Kids,Mauricio Restrepo,Valeria López,Corona sobre Implante con Pilar Personalizado,"34, 29, 17, 35",A2,Biodent,True,Alta estética.,2024-06-17,2024-06-25,2024-06-27,False
+572,DentistPro,Sofía Vargas,Esteban Saldarriaga,Guia Quirurgica,Superior,N/A,N/A,False,Alta estética.,2025-01-10,2025-01-12,2025-01-18,False
+573,Juan José Correa,Luisa Fernanda Díaz,Nicolás Castro,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-06-28,2024-07-02,2024-07-07,False
+574,Implantes Dentales Medellín,Andrea Giraldo,Simón Orozco,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Alta estética.,2025-01-11,2025-01-18,,True
+575,Dr. Alejandro Vélez,Mateo Vargas,Silvana Restrepo,Perno,"24, 36, 26, 23",N/A,N/A,False,Revisar oclusión.,2024-12-21,2024-12-24,,True
+576,Clínica Dental Armonía,Juan José Correa,Simón Orozco,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-10-23,2024-11-01,,True
+577,Clínica Dental del Centro,Sara Jaramillo,Sebastián Duque,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Procedimiento rutinario.,2024-12-26,2024-12-30,2025-01-05,False
+578,Dr. Miguel Ángel Sierra,Pedro Sánchez,Samuel Bustamante,Corona Totalmente Ceramica,35,B3,Biodent,False,Paciente sensible.,2024-08-03,2024-08-11,2024-08-16,False
+579,Jorge Alberto Ruiz,Mariana Vélez,Sebastián Duque,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,True,Alta estética.,2024-07-14,2024-07-24,,True
+580,Clínica Dental del Centro,José Luis Cardona,Natalia Andrea Vélez,Corona sobre Implante con Pilar Titanio,"34, 26, 44",A1,Biodent,True,Revisar oclusión.,2024-07-13,2024-07-22,2024-07-23,False
+581,Dr. Alejandro Vélez,Pedro Sánchez,Valentina Ospina,Corona sobre Implante con Pilar Titanio,31,BL1,Biodent,False,Procedimiento rutinario.,2024-12-20,2024-12-25,,True
+582,Salud Oral Integral,Juan Pablo Gómez,Sara Victoria Tamayo,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,True,Requiere ajuste.,2025-04-08,2025-04-18,2025-04-22,False
+583,Sonrisas Brillantes,Liliana Cifuentes,Miguel Ángel Tobón,Hyrax,Superior e Inferior,N/A,N/A,False,Alta estética.,2024-07-14,2024-07-17,,True
+584,Maxilofacial & Implantes,Jorge Alberto Ruiz,Andrés Felipe Marulanda,Perno,26,N/A,N/A,False,Revisar oclusión.,2024-06-11,2024-06-17,,True
+585,Smile Design Center,Mariana Vélez,Laura Cristina Jaramillo,Protesis Removible,34,C1,Vita 3D Master,False,Revisar oclusión.,2024-12-11,2024-12-13,,True
+586,Clínica Dental Armonía,José Luis Cardona,Angie Paola Vargas,Corona sobre Implante con T-base,"33, 33, 30, 29",A3.5,Biodent,False,Revisar oclusión.,2024-10-10,2024-10-12,,True
+587,Natalia Soto,Valeria Duque,Natalia Andrea Vélez,Placa de Bruxismo,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-04-18,2025-04-23,,True
+588,Dental Excellence,Laura Ospina,Gabriela Morales,Corona sobre Implante con Pilar Titanio,17,OM1,Biodent,False,Alta estética.,2024-10-03,2024-10-05,,True
+589,Diana Marcela Ríos,Gabriela Rojas,Lucía Osorio,Corona Totalmente Ceramica,38,A1,Vita 3D Master,True,Alta estética.,2024-10-09,2024-10-10,,True
+590,Clínica Dental Familias,Martín Valencia,Laura Cristina Jaramillo,Placa Estetica,12,D4,Duratone,True,Requiere ajuste.,2024-08-22,2024-09-01,,True
+591,Dr. Alejandro Vélez,Diana Marcela Ríos,Paulina Alzate,Placa Estetica,"37, 45",BL4,Vita 3D Master,False,Requiere ajuste.,2024-10-29,2024-11-04,2024-11-06,False
+592,Odontología Estética,Santiago Rojas,Carlos Andrés Ruiz,Guia Quirurgica,Inferior,N/A,N/A,True,Paciente sensible.,2025-05-10,2025-05-12,2025-05-19,False
+593,Dra. Sofía Vargas,Ana María Pérez,Paula Andrea Díaz,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Revisar oclusión.,2024-12-23,2024-12-28,2025-01-04,False
+594,Dental Kids,Diego Salazar,Isabella Mejía,Provisional,"18, 15, 16",BL4,Biodent,False,Requiere ajuste.,2025-02-21,2025-03-01,,True
+595,Sonrisas Brillantes,Valentina Cano,Isabella Mejía,Placa Estetica,"38, 21, 14",BL4,Vita 3D Master,False,Alta estética.,2024-12-28,2025-01-01,,True
+596,Dental Excellence,Sebastián Alzate,Isabella Mejía,Corona sobre Implante con T-base,"31, 40",OM3,Vita 3D Master,True,Alta estética.,2024-09-30,2024-10-10,2024-10-17,False
+597,Dra. Clara Inés Duque,Santiago Rojas,Felipe Marín,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Revisar oclusión.,2025-01-11,2025-01-16,2025-01-20,False
+598,Smile Design Center,Pablo Escobar,Natalia Andrea Vélez,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Alta estética.,2025-05-04,2025-05-10,2025-05-16,False
+599,Andrea Carolina Mesa,Andrés Felipe Castro,Diego Alejandro Sierra,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,True,Procedimiento rutinario.,2024-08-20,2024-08-30,,True
+600,Implantes Dentales Medellín,Martín Valencia,Juan David Restrepo,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-12-23,2024-12-26,2024-12-28,False
+601,Salud Dental Familiar,David Ospina,David Zuluaga,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-03-23,2025-03-25,2025-04-01,False
+602,Sebastián Alzate,Roberto Morales,Carolina Rivera,Provisional,"13, 15, 29, 48",B2,Vita 3D Master,False,Procedimiento rutinario.,2024-12-27,2025-01-03,2025-01-07,False
+603,Dra. Liliana Cifuentes,Roberto Morales,Diego Alejandro Sierra,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,False,Alta estética.,2024-07-18,2024-07-27,2024-07-29,False
+604,Clínica Dental del Centro,Pedro Sánchez,Andrés Felipe Marulanda,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Revisar oclusión.,2025-05-09,2025-05-11,2025-05-18,False
+605,Dr. Fernando Quintero,Diana Marcela Ríos,Carolina Rivera,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-12-28,2024-12-30,2025-01-03,False
+606,Odontología Estética,Pedro Sánchez,Lucía Osorio,Provisional,31,C3,Biodent,True,Paciente sensible.,2025-05-13,2025-05-15,,True
+607,Dr. Alejandro Vélez,José Luis Cardona,Ricardo Alfonso Hoyos,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-04-29,2025-05-04,,True
+608,Clínica Dental del Centro,Mateo Vargas,Carlos Andrés Ruiz,Provisional,"31, 17, 32",OM1,Biodent,False,Revisar oclusión.,2025-05-16,2025-05-25,2025-05-27,False
+609,Dental Excellence,Juan Felipe Restrepo,Daniel Alzate,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Requiere ajuste.,2024-12-31,2025-01-10,,True
+610,Dental Kids,Carlos López,Gabriela Morales,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2024-12-14,2024-12-15,,True
+611,Ortodoncia Avanzada,Sara Jaramillo,Felipe Marín,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Requiere ajuste.,2024-12-16,2024-12-17,,True
+612,David Ospina,Juan Pablo Gómez,Cristian Bermúdez,Provisional,"16, 41",A1,Vitapan,False,Alta estética.,2024-10-22,2024-10-28,2024-10-29,False
+613,Clínica Dental del Norte,Daniela Marín,Juan Camilo Botero,Protesis Removible,"33, 19",D3,Biodent,False,Procedimiento rutinario.,2025-01-05,2025-01-14,2025-01-16,False
+614,Clínica Dental del Norte,Liliana Cifuentes,Paula Andrea Díaz,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-11-11,2024-11-16,,True
+615,Sebastián Alzate,Alejandro Vélez,Nicolás Castro,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,True,Paciente sensible.,2025-04-07,2025-04-16,,True
+616,Mariana Vélez,Daniela Marín,Emmanuel Franco,Placa Estetica,"43, 31, 13, 45",A1,Biodent,False,Revisar oclusión.,2025-04-05,2025-04-07,,True
+617,Sebastián Alzate,Andrea Giraldo,Silvana Restrepo,Placa Estetica,"32, 14, 15, 43",C1,Vitapan,True,Paciente sensible.,2024-12-11,2024-12-14,,True
+618,David Ospina,Valeria Duque,Alejandro Herrera,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Alta estética.,2024-07-23,2024-07-28,,True
+619,Salud Dental Familiar,Sara Jaramillo,Catalina Rendón,Protesis Removible,25,B3,Biodent,True,Paciente sensible.,2025-02-28,2025-03-10,,True
+620,Dental Kids,María Fernanda Ortiz,Manuela Cárdenas,Hyrax,Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-07-20,2024-07-30,2024-08-05,False
+621,Sonrisas Saludables,Carlos López,Martín Quintero,Hyrax,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-10-15,2024-10-21,2024-10-26,False
+622,Oral Health Solutions,Roberto Morales,Lucía Osorio,Corona sobre Implante con Pilar Titanio,12,A1,Duratone,True,Alta estética.,2025-01-18,2025-01-26,,True
+623,Jorge Alberto Ruiz,Lorena Henao,Simón Orozco,Corona sobre Implante con Pilar Personalizado,"44, 12, 30, 37",B1,Vita 3D Master,False,Alta estética.,2025-03-29,2025-04-08,2025-04-11,False
+624,Estética Dental Premium,Elena Gómez,Sofía Ramírez,Perno,"20, 19, 28",N/A,N/A,False,Alta estética.,2025-01-27,2025-02-02,,True
+625,Ortodoncia Avanzada,María Fernanda Ortiz,Silvana Restrepo,Perno,"19, 14, 11, 40",N/A,N/A,True,Paciente sensible.,2025-01-18,2025-01-19,2025-01-20,False
+626,Mariana Vélez,Luisa Fernanda Díaz,Ricardo Alfonso Hoyos,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-09-14,2024-09-19,,True
+627,Sebastián Alzate,Camilo Torres,Laura Cristina Jaramillo,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,True,Requiere ajuste.,2024-11-14,2024-11-16,2024-11-22,False
+628,Clínica Dental Sonríe,Daniela Marín,Laura Giraldo,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2025-01-14,2025-01-22,,True
+629,David Ospina,Luisa Fernanda Díaz,Diego Alejandro Sierra,Corona sobre Implante con Pilar Personalizado,"13, 19",A4,Vita 3D Master,True,Requiere ajuste.,2025-04-28,2025-05-08,2025-05-09,False
+630,Jorge Alberto Ruiz,María Fernanda Ortiz,Ricardo Alfonso Hoyos,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-12-15,2024-12-21,2024-12-26,False
+631,Mariana Vélez,Mauricio Rodriguez,Gabriela Morales,Placa Estetica,16,D3,Duratone,False,Revisar oclusión.,2025-03-10,2025-03-18,2025-03-20,False
+632,Ortodoncia Plus,Elena Gómez,Miguel Ángel Tobón,Protesis Removible,"17, 38, 38, 19",OM2,Vita 3D Master,True,Revisar oclusión.,2024-11-23,2024-11-25,,True
+633,Pedro Sánchez,Carlos López,Catalina Rendón,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Alta estética.,2025-01-01,2025-01-05,2025-01-12,False
+634,Salud Dental Familiar,Juan Pablo Gómez,Samuel Bustamante,Provisional,"33, 20, 33, 23",D3,Duratone,False,Revisar oclusión.,2025-01-29,2025-02-05,,True
+635,OdontoKids,Alejandro Vélez,Lucía Osorio,Placa Estetica,19,BL1,Vitapan,True,Alta estética.,2024-06-23,2024-06-28,,True
+636,Dra. Clara Inés Duque,Juan Pablo Gómez,Nicolás Castro,Corona Metal Ceramica,23,BL2,Vitapan,False,Requiere ajuste.,2025-02-04,2025-02-12,,True
+637,Dra. Liliana Cifuentes,Andrea Giraldo,David Zuluaga,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-07-13,2024-07-16,2024-07-20,False
+638,Clínica Dental Bienestar,Andrea Carolina Mesa,Simón Orozco,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Alta estética.,2024-10-31,2024-11-07,,True
+639,Centro Odontológico Integral,José Luis Cardona,Andrea Gómez,Perno,"31, 18, 42",N/A,N/A,True,Alta estética.,2025-05-28,2025-05-30,,True
+640,VitalDent,Miguel Ángel Sierra,Mariana Vélez,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-08-07,2024-08-15,2024-08-21,False
+641,Ortodoncia Avanzada,Pedro Sánchez,José Miguel Soto,Corona sobre Implante con Pilar Personalizado,"41, 28, 36",B3,Vitapan,False,Requiere ajuste.,2025-04-27,2025-05-02,,True
+642,VitalDent,Esteban Zuluaga,Samuel Bustamante,Hyrax,Superior,N/A,N/A,False,Revisar oclusión.,2024-11-22,2024-11-26,,True
+643,Sonrisas Sanas,Ana María Pérez,Gabriela Morales,Placa Estetica,"29, 35, 39, 39",B4,Vita 3D Master,False,Requiere ajuste.,2025-06-02,2025-06-10,2025-06-14,False
+644,Implantes Dentales Medellín,Diego Salazar,Valeria López,Corona sobre Implante con Pilar Titanio,"27, 36, 27",BL4,Vita 3D Master,False,Alta estética.,2024-12-30,2025-01-01,,True
+645,Sonrisas Sanas,Carlos López,Valeria López,Corona sobre Implante con Pilar Personalizado,45,A3,Vita 3D Master,True,Procedimiento rutinario.,2025-03-26,2025-03-28,,True
+646,Ortodoncia Plus,Andrea Giraldo,Sara Victoria Tamayo,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Requiere ajuste.,2024-09-18,2024-09-21,,True
+647,OdontoKids,José Luis Cardona,Daniela Valencia,Corona Totalmente Ceramica,"21, 18, 27",B3,Duratone,True,Paciente sensible.,2025-04-23,2025-05-01,2025-05-04,False
+648,Mariana Vélez,Carolina Mesa,Mariana Vélez,Corona Totalmente Ceramica,"13, 42, 38",OM3,Vita 3D Master,True,Revisar oclusión.,2024-12-16,2024-12-19,,True
+649,Jorge Alberto Ruiz,Jorge Alberto Ruiz,Samuel Bustamante,Corona Metal Ceramica,"48, 15, 48, 29",BL3,Vita 3D Master,True,Procedimiento rutinario.,2025-01-05,2025-01-07,2025-01-08,False
+650,Luisa Fernanda Díaz,Juan Pablo Gómez,Felipe Marín,Placa de Bruxismo,Inferior,N/A,N/A,True,Requiere ajuste.,2025-04-12,2025-04-22,2025-04-25,False
+651,Andrea Carolina Mesa,Juan José Correa,Arturo Montoya,Placa de Bruxismo,Superior,N/A,N/A,False,Requiere ajuste.,2024-10-29,2024-11-05,2024-11-10,False
+652,Smile Design Center,Martín Valencia,Daniel Alzate,Perno,39,N/A,N/A,True,Paciente sensible.,2025-02-01,2025-02-02,2025-02-05,False
+653,Dental Kids,Valeria Duque,Samuel Bustamante,Placa Estetica,"44, 24, 41",A4,Duratone,False,Revisar oclusión.,2024-11-01,2024-11-06,2024-11-13,False
+654,Juan José Correa,Mateo Vargas,David Zuluaga,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2024-07-21,2024-07-25,,True
+655,Odontopediatría Integral,Patricia Acevedo,Paula Andrea Díaz,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Revisar oclusión.,2024-08-11,2024-08-12,,True
+656,Salud Dental Familiar,Diana Marcela Ríos,Isabella Mejía,Hyrax,Superior e Inferior,N/A,N/A,False,Alta estética.,2025-05-31,2025-06-10,,True
+657,Dental Excellence,Andrés Felipe Castro,Carlos Andrés Ruiz,Corona sobre Implante con Pilar Titanio,"31, 23",D4,Vita 3D Master,False,Requiere ajuste.,2024-08-10,2024-08-15,,True
+658,Dental Kids,Felipe Montoya,Manuela Cárdenas,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,True,Requiere ajuste.,2025-04-05,2025-04-12,2025-04-17,False
+659,Clínica Dental del Centro,Carlos López,Valeria Alejandra Gil,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Alta estética.,2024-08-02,2024-08-09,2024-08-11,False
+660,Sonrisas Saludables,Juan Pablo Gómez,Santiago Pérez,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Revisar oclusión.,2024-08-29,2024-08-30,,True
+661,Dr. Fernando Quintero,Felipe Montoya,Valeria Alejandra Gil,Hyrax,Superior,N/A,N/A,False,Revisar oclusión.,2025-05-23,2025-05-30,2025-06-06,False
+662,Dra. Clara Inés Duque,Patricia Acevedo,Isabella Mejía,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,False,Requiere ajuste.,2024-09-26,2024-10-06,,True
+663,OdontoKids,Natalia Soto,David Zuluaga,Corona sobre Implante con Pilar Titanio,"13, 15, 40, 21",C2,Biodent,True,Alta estética.,2024-10-05,2024-10-15,2024-10-17,False
+664,Implantes Dentales Medellín,Mariana Vélez,Martín Quintero,Placa Estetica,16,A3.5,Vita 3D Master,True,Requiere ajuste.,2024-06-11,2024-06-12,2024-06-18,False
+665,Centro Odontológico Integral,José Luis Cardona,Juan Camilo Botero,Placa de Bruxismo,Superior,N/A,N/A,False,Procedimiento rutinario.,2024-10-22,2024-10-24,,True
+666,Dra. Liliana Cifuentes,Paula Andrea Morales,Alejandro Herrera,Corona sobre Implante con Pilar Titanio,"45, 14, 44",A3.5,Vitapan,True,Procedimiento rutinario.,2025-02-20,2025-02-27,2025-02-28,False
+667,Clínica Dental Sonríe,Mariana Vélez,Isabella Mejía,Corona sobre Implante con T-base,"21, 45, 45, 41",D2,Duratone,False,Requiere ajuste.,2025-05-09,2025-05-19,,True
+668,Sonrisas Brillantes,Valeria Duque,Luisa Fernanda Echeverri,Corona sobre Implante con T-base,15,A2,Biodent,False,Procedimiento rutinario.,2025-03-14,2025-03-24,2025-03-27,False
+669,Clínica Dental del Norte,Diego Salazar,Santiago Pérez,Corona sobre Implante con Pilar Personalizado,"18, 13, 41",C1,Duratone,True,Alta estética.,2024-09-26,2024-09-29,2024-10-03,False
+670,Clínica Dental Nova,Ricardo Pérez,Arturo Montoya,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Requiere ajuste.,2025-04-05,2025-04-10,2025-04-15,False
+671,Dr. Alejandro Vélez,Gabriela Rojas,Santiago Pérez,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,True,Requiere ajuste.,2025-05-21,2025-05-25,,True
+672,Clínica Dental Nova,Andrés Felipe Castro,Esteban Saldarriaga,Corona sobre Implante con Pilar Personalizado,"47, 30",C3,Vitapan,False,Alta estética.,2025-03-09,2025-03-13,,True
+673,Luisa Fernanda Díaz,Mauricio Rodriguez,Sebastián Duque,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,True,Revisar oclusión.,2024-07-26,2024-07-31,2024-08-07,False
+674,Pedro Sánchez,Diego Salazar,Mateo Giraldo,Provisional,"16, 32, 20, 34",A3.5,Vita 3D Master,False,Procedimiento rutinario.,2025-05-19,2025-05-29,,True
+675,Dra. Liliana Cifuentes,Liliana Cifuentes,Sebastián Duque,Corona Metal Ceramica,"47, 33, 13",A1,Biodent,False,Paciente sensible.,2025-01-08,2025-01-09,,True
+676,Clínica Dental Bienestar,Diana Marcela Ríos,Andrea Gómez,Placa Estetica,"37, 33, 15, 29",BL2,Duratone,True,Alta estética.,2025-01-29,2025-02-05,2025-02-07,False
+677,Ortodoncia Avanzada,Natalia Soto,Alejandro Herrera,Placa Estetica,"39, 15, 14",B1,Vitapan,False,Alta estética.,2024-09-22,2024-09-27,,True
+678,Odontología Estética,Mateo Vargas,Emmanuel Franco,Perno,"48, 25, 17",N/A,N/A,False,Requiere ajuste.,2024-11-26,2024-12-06,,True
+679,Dental Excellence,Miguel Ángel Sierra,Gabriela Morales,Placa de Bruxismo,Superior,N/A,N/A,False,Alta estética.,2024-10-21,2024-10-22,,True
+680,David Ospina,Gabriela Rojas,Luisa Fernanda Echeverri,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,True,Revisar oclusión.,2024-12-14,2024-12-24,,True
+681,Clínica Dental Familias,Fernando Quintero,Isabella Mejía,Perno,"37, 18",N/A,N/A,False,Requiere ajuste.,2024-06-12,2024-06-19,2024-06-24,False
+682,Clínica Dental Armonía,Javier Restrepo,Juan David Restrepo,Corona sobre Implante con Pilar Personalizado,33,BL3,Duratone,False,Procedimiento rutinario.,2024-09-09,2024-09-16,2024-09-23,False
+683,Clínica Dental Armonía,Sebastián Alzate,Simón Orozco,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-08-24,2024-08-30,2024-09-03,False
+684,Luisa Fernanda Díaz,Santiago Rojas,Paula Andrea Díaz,Placa Estetica,"20, 27",C3,Duratone,False,Paciente sensible.,2025-02-05,2025-02-10,,True
+685,Clínica Dental del Norte,José Luis Cardona,Sebastián Duque,Protesis Removible,"11, 14, 34, 26",B1,Vitapan,False,Paciente sensible.,2025-01-18,2025-01-19,2025-01-24,False
+686,Dra. Sofía Vargas,Ana María Pérez,Lucía Osorio,Perno,35,N/A,N/A,True,Alta estética.,2025-05-24,2025-05-31,,True
+687,Dr. Juan Pablo Gómez,Roberto Morales,Daniel Alzate,Corona Totalmente Ceramica,18,OM2,Vitapan,False,Requiere ajuste.,2025-05-21,2025-05-25,2025-05-27,False
+688,Sonrisas Sanas,Camilo Torres,Juan Pablo Arias,Perno,"14, 48, 41, 32",N/A,N/A,False,Alta estética.,2024-07-04,2024-07-13,,True
+689,Sonrisas Brillantes,Roberto Morales,Catalina Rendón,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,True,Paciente sensible.,2024-11-11,2024-11-16,,True
+690,Clínica Dental Bienestar,Carlos López,Alejandro Herrera,Corona sobre Implante con Pilar Personalizado,"37, 14, 42, 15",B3,Vitapan,True,Revisar oclusión.,2025-04-23,2025-05-01,,True
+691,Pedro Sánchez,Pedro Sánchez,Luisa Fernanda Echeverri,Placa de Bruxismo,Inferior,N/A,N/A,False,Paciente sensible.,2024-08-30,2024-09-01,,True
+692,Dental Kids,Clara Inés Duque,Sebastián Duque,Provisional,"11, 26, 17, 15",C4,Duratone,False,Alta estética.,2024-09-07,2024-09-11,,True
+693,Dra. Sara Jaramillo,Javier Restrepo,Andrea Gómez,Corona Metal Ceramica,25,OM2,Duratone,False,Procedimiento rutinario.,2025-01-22,2025-01-26,,True
+694,Salud Dental Familiar,Diana Marcela Ríos,Sofía Ramírez,Hyrax,Inferior,N/A,N/A,False,Requiere ajuste.,2025-03-02,2025-03-03,2025-03-07,False
+695,Dr. Miguel Ángel Sierra,Sebastián Alzate,José Miguel Soto,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Alta estética.,2025-02-06,2025-02-07,,True
+696,Estética Dental Premium,Martín Valencia,Gabriela Morales,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-03-11,2025-03-14,2025-03-15,False
+697,Salud Oral Integral,Miguel Ángel Sierra,Nicolás Castro,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,False,Alta estética.,2024-11-22,2024-11-23,2024-11-25,False
+698,Salud Oral Integral,Natalia Soto,Valentina Ospina,Perno,"45, 46, 34, 11",N/A,N/A,False,Requiere ajuste.,2025-05-24,2025-05-28,2025-05-31,False
+699,Sonrisas Sanas,Isabella Sierra,Sara Victoria Tamayo,Corona Totalmente Ceramica,"21, 12",OM3,Duratone,True,Paciente sensible.,2024-08-15,2024-08-22,,True
+700,Ortodoncia Plus,Carlos López,Angie Paola Vargas,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-10-20,2024-10-24,,True
+701,Salud Oral Integral,Ana María Pérez,Arturo Montoya,Corona Metal Ceramica,"27, 41, 26, 47",C2,Duratone,True,Procedimiento rutinario.,2025-05-20,2025-05-27,2025-05-28,False
+702,Clínica Dental Bienestar,Pablo Escobar,Ricardo Alfonso Hoyos,Corona sobre Implante con Pilar Titanio,"40, 32, 36",A3.5,Duratone,False,Requiere ajuste.,2025-05-27,2025-05-31,,True
+703,Sonrisas Brillantes,María Fernanda Ortiz,Andrea Gómez,Corona sobre Implante con Pilar Titanio,"24, 29",B3,Duratone,False,Requiere ajuste.,2025-02-20,2025-02-21,2025-02-24,False
+704,Clínica Dental Armonía,Mauricio Restrepo,Laura Giraldo,Perno,"28, 47",N/A,N/A,True,Revisar oclusión.,2025-04-21,2025-04-29,,True
+705,OdontoKids,Carolina Mesa,José Miguel Soto,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-10-25,2024-10-31,,True
+706,VitalDent,Andrea Carolina Mesa,Martín Quintero,Corona sobre Implante con Pilar Titanio,"47, 32, 42, 48",BL3,Vita 3D Master,False,Requiere ajuste.,2025-02-17,2025-02-26,2025-02-27,False
+707,DentistPro,Martín Valencia,Samuel Bustamante,Protesis Removible,"33, 36",B4,Duratone,False,Paciente sensible.,2025-05-17,2025-05-27,2025-05-31,False
+708,Dr. Fernando Quintero,Javier Restrepo,Juan Camilo Botero,Corona Totalmente Ceramica,"34, 41",C2,Vita 3D Master,False,Requiere ajuste.,2025-05-14,2025-05-21,,True
+709,Estética Dental Premium,Liliana Cifuentes,Cristian Bermúdez,Corona Totalmente Ceramica,"18, 23",A3,Vita 3D Master,True,Paciente sensible.,2024-06-30,2024-07-05,,True
+710,Salud Oral Integral,Sara Jaramillo,Juan Pablo Arias,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,False,Alta estética.,2025-01-10,2025-01-20,,True
+711,DentistPro,Mauricio Restrepo,Laura Giraldo,Protesis Removible,"34, 40, 48",C4,Vita 3D Master,False,Alta estética.,2024-06-08,2024-06-18,2024-06-19,False
+712,Andrea Carolina Mesa,Laura Ospina,Angie Paola Vargas,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Paciente sensible.,2025-04-07,2025-04-14,,True
+713,Sebastián Alzate,Isabella Sierra,Juan David Restrepo,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Alta estética.,2024-10-14,2024-10-17,2024-10-19,False
+714,Jorge Alberto Ruiz,Sebastián Alzate,Julian Alberto Cano,Perno,"26, 48, 22",N/A,N/A,False,Alta estética.,2025-04-18,2025-04-23,2025-04-30,False
+715,Smile Design Center,Sofía Vargas,Arturo Montoya,Perno,"33, 43, 33",N/A,N/A,False,Paciente sensible.,2024-11-23,2024-11-28,2024-12-02,False
+716,Odonto Sonrisa,Diego Salazar,Miguel Ángel Tobón,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-01-22,2025-02-01,2025-02-03,False
+717,Dra. Clara Inés Duque,Sofía Vargas,Juan David Restrepo,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-07-15,2024-07-23,2024-07-24,False
+718,Dra. Sara Jaramillo,Juan José Correa,Carlos Andrés Ruiz,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Revisar oclusión.,2024-11-24,2024-11-29,,True
+719,Natalia Soto,Laura Ospina,Gabriela Morales,Corona sobre Implante con Pilar Titanio,22,C4,Vita 3D Master,False,Procedimiento rutinario.,2024-07-25,2024-07-27,,True
+720,Dr. Camilo Gaviria,Natalia Soto,Daniel Alzate,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-11-02,2024-11-09,2024-11-10,False
+721,David Ospina,Ana María Pérez,Laura Cristina Jaramillo,Placa de Bruxismo,Superior e Inferior,N/A,N/A,False,Alta estética.,2024-10-03,2024-10-04,2024-10-09,False
+722,Sonrisas Sanas,Ana María Pérez,Felipe Marín,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Revisar oclusión.,2025-02-05,2025-02-13,2025-02-20,False
+723,VitalDent,Felipe Montoya,Ricardo Alfonso Hoyos,Placa Estetica,14,C2,Vitapan,True,Alta estética.,2024-11-19,2024-11-22,,True
+724,Pedro Sánchez,José Luis Cardona,Andrés Felipe Marulanda,Perno,"35, 48",N/A,N/A,False,Paciente sensible.,2025-03-26,2025-03-31,,True
+725,Mariana Vélez,Ricardo Pérez,Carlos Andrés Ruiz,Placa Estetica,"17, 31, 28",B4,Biodent,False,Procedimiento rutinario.,2025-01-31,2025-02-09,,True
+726,Odontopediatría Integral,Andrea Carolina Mesa,Julian Alberto Cano,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-08-26,2024-09-03,2024-09-04,False
+727,Oral Health Solutions,Isabella Sierra,Juan David Restrepo,Corona sobre Implante con T-base,"13, 24, 42, 26",B4,Duratone,True,Paciente sensible.,2024-09-13,2024-09-18,2024-09-20,False
+728,Clínica Dental Bienestar,Elena Gómez,Sofía Ramírez,Corona sobre Implante con Pilar Personalizado,"22, 23",BL1,Biodent,True,Revisar oclusión.,2024-11-09,2024-11-16,,True
+729,Salud Dental Familiar,Valeria Duque,Luisa Fernanda Echeverri,Hyrax,Superior,N/A,N/A,True,Requiere ajuste.,2024-08-22,2024-08-23,,True
+730,Estética Dental Premium,Fernando Quintero,Natalia Andrea Vélez,Placa Estetica,"32, 43, 21",A1,Biodent,False,Procedimiento rutinario.,2024-08-17,2024-08-19,,True
+731,Centro Estético Dental,José Luis Cardona,Laura Giraldo,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-12-08,2024-12-12,,True
+732,Clínica Odontológica del Sur,Patricia Acevedo,Ricardo Alfonso Hoyos,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2024-12-21,2024-12-27,2025-01-03,False
+733,Sebastián Alzate,Valeria Duque,Mateo Giraldo,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Requiere ajuste.,2024-07-14,2024-07-20,,True
+734,Salud Oral Integral,Jorge Alberto Ruiz,Mateo Giraldo,Corona sobre Implante con Pilar Personalizado,20,BL3,Biodent,True,Revisar oclusión.,2024-10-01,2024-10-09,,True
+735,Dra. Liliana Cifuentes,Clara Inés Duque,Juan Camilo Botero,Corona Totalmente Ceramica,"11, 28",C3,Biodent,True,Procedimiento rutinario.,2024-12-25,2025-01-04,2025-01-09,False
+736,Clínica Dental Sonríe,Gabriela Rojas,Juan Pablo Arias,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Requiere ajuste.,2024-06-28,2024-07-04,,True
+737,Centro Estético Dental,Pedro Sánchez,Valeria López,Corona sobre Implante con Pilar Titanio,"16, 19",B4,Vita 3D Master,False,Procedimiento rutinario.,2025-01-07,2025-01-12,2025-01-15,False
+738,Sonrisas Saludables,Sofía Vargas,Juan Camilo Botero,Corona Metal Ceramica,16,OM3,Biodent,True,Alta estética.,2025-01-25,2025-01-29,2025-01-31,False
+739,Dra. Sofía Vargas,Sebastián Alzate,José Miguel Soto,Corona Metal Ceramica,"12, 46, 39",B2,Vita 3D Master,False,Requiere ajuste.,2024-12-23,2024-12-24,2024-12-26,False
+740,Dra. Liliana Cifuentes,Camilo Torres,Sebastián Duque,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-04-27,2025-05-02,,True
+741,Dr. Camilo Gaviria,Clara Inés Duque,Arturo Montoya,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-07-26,2024-07-28,,True
+742,Mariana Vélez,Camilo Gaviria,Sara Victoria Tamayo,Corona Totalmente Ceramica,"46, 11, 29, 43",OM1,Vitapan,True,Alta estética.,2024-06-27,2024-07-03,2024-07-06,False
+743,Clínica Dental Familias,David Ospina,Nicolás Castro,Corona sobre Implante con Pilar Personalizado,"43, 34, 17",OM3,Vitapan,True,Requiere ajuste.,2024-11-04,2024-11-07,2024-11-14,False
+744,Clínica Dental Bienestar,Elena Gómez,Felipe Marín,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-06-15,2024-06-20,2024-06-24,False
+745,Ortodoncia Avanzada,Juan Pablo Gómez,Paula Andrea Díaz,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,True,Requiere ajuste.,2024-11-10,2024-11-16,,True
+746,Odontología Estética,Fernando Quintero,Luisa Fernanda Echeverri,Provisional,"32, 44",BL4,Vita 3D Master,True,Requiere ajuste.,2025-05-11,2025-05-17,2025-05-22,False
+747,Centro Estético Dental,María Fernanda Ortiz,Paula Andrea Díaz,Corona sobre Implante con T-base,"32, 27, 42",A1,Vita 3D Master,False,Requiere ajuste.,2025-05-05,2025-05-15,2025-05-18,False
+748,David Ospina,Carolina Mesa,Mariana Vélez,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,True,Paciente sensible.,2024-06-22,2024-06-28,2024-07-04,False
+749,Salud Dental Familiar,Sara Jaramillo,Samuel Bustamante,Provisional,"41, 27, 21, 34",B1,Vitapan,True,Alta estética.,2024-07-20,2024-07-27,,True
+750,Luisa Fernanda Díaz,Mauricio Rodriguez,Diego Alejandro Sierra,Provisional,"36, 17",OM2,Vita 3D Master,False,Paciente sensible.,2024-06-08,2024-06-17,,True
+751,Natalia Soto,Andrés Felipe Castro,Natalia Andrea Vélez,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,True,Revisar oclusión.,2025-01-04,2025-01-12,,True
+752,Ortodoncia Avanzada,Camilo Gaviria,Carlos Andrés Ruiz,Corona Totalmente Ceramica,"37, 26",B2,Vita 3D Master,False,Procedimiento rutinario.,2025-05-12,2025-05-14,,True
+753,OdontoKids,Pedro Sánchez,Camila Montoya,Perno,"33, 32",N/A,N/A,True,Paciente sensible.,2025-02-06,2025-02-07,2025-02-09,False
+754,Clínica Dental del Norte,María Fernanda Ortiz,Juan Pablo Arias,Corona Totalmente Ceramica,41,OM1,Biodent,True,Revisar oclusión.,2024-10-26,2024-10-31,2024-11-03,False
+755,Sonrisas Saludables,Valeria Duque,Esteban Saldarriaga,Protesis Removible,"19, 38, 24",BL1,Vitapan,True,Revisar oclusión.,2025-03-28,2025-04-03,,True
+756,Sonrisas Brillantes,Liliana Cifuentes,Natalia Andrea Vélez,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-03-17,2025-03-22,,True
+757,Sonrisas Saludables,Sara Jaramillo,Gabriela Morales,Protesis Removible,29,C4,Duratone,False,Revisar oclusión.,2024-07-31,2024-08-05,,True
+758,Dra. Liliana Cifuentes,José Luis Cardona,Cristian Bermúdez,Protesis Removible,28,D3,Vita 3D Master,True,Alta estética.,2024-08-01,2024-08-04,2024-08-10,False
+759,DentistPro,Andrés Felipe Castro,Alejandro Herrera,Corona sobre Implante con T-base,"13, 28",A2,Duratone,False,Revisar oclusión.,2025-04-06,2025-04-16,2025-04-20,False
+760,Juan José Correa,Felipe Montoya,Valeria López,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,True,Paciente sensible.,2024-07-02,2024-07-07,,True
+761,Luisa Fernanda Díaz,Andrea Giraldo,Samuel Bustamante,Corona sobre Implante con Pilar Titanio,"47, 19, 26, 46",B4,Vita 3D Master,True,Paciente sensible.,2024-12-18,2024-12-23,,True
+762,Oral Health Solutions,David Ospina,Daniel Alzate,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-07-26,2024-08-01,2024-08-04,False
+763,Juan José Correa,Fernando Quintero,Daniel Alzate,Corona sobre Implante con Pilar Titanio,"24, 12",OM2,Vitapan,True,Procedimiento rutinario.,2025-06-02,2025-06-03,,True
+764,Clínica Dental Armonía,Valentina Cano,Angie Paola Vargas,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Paciente sensible.,2025-04-28,2025-05-04,,True
+765,Dra. Liliana Cifuentes,Ana María Pérez,Camila Montoya,Placa de Bruxismo,Inferior,N/A,N/A,True,Revisar oclusión.,2024-09-02,2024-09-09,2024-09-13,False
+766,Luisa Fernanda Díaz,Carlos López,Emmanuel Franco,Corona sobre Implante con Pilar Personalizado,"38, 45, 44, 28",B2,Biodent,False,Procedimiento rutinario.,2024-12-17,2024-12-18,2024-12-23,False
+767,Ortodoncia Plus,Camilo Gaviria,Paulina Alzate,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2024-10-26,2024-11-05,,True
+768,Salud Dental Familiar,Santiago Rojas,Sebastián Duque,Corona sobre Implante con Pilar Personalizado,22,OM1,Vitapan,True,Paciente sensible.,2024-09-17,2024-09-19,2024-09-26,False
+769,Clínica Dental del Centro,Valentina Cano,José Miguel Soto,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-07-24,2024-07-25,,True
+770,Clínica Dental del Norte,Esteban Zuluaga,Andrea Gómez,Corona sobre Implante con T-base,"13, 48, 36",BL4,Vita 3D Master,False,Revisar oclusión.,2024-08-13,2024-08-14,2024-08-15,False
+771,Dr. Camilo Gaviria,Diana Marcela Ríos,Esteban Saldarriaga,Hyrax,Inferior,N/A,N/A,False,Revisar oclusión.,2024-09-06,2024-09-07,2024-09-14,False
+772,Dental Kids,Sofía Vargas,Mateo Giraldo,Corona sobre Implante con Pilar Personalizado,"23, 33, 14",OM3,Biodent,False,Procedimiento rutinario.,2025-04-13,2025-04-18,,True
+773,Salud Oral Integral,Valeria Duque,Martín Quintero,Perno,"29, 30",N/A,N/A,True,Requiere ajuste.,2025-03-16,2025-03-22,,True
+774,Juan José Correa,Roberto Morales,Diego Alejandro Sierra,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,True,Alta estética.,2024-09-07,2024-09-16,,True
+775,Dental Kids,Carlos López,Lucía Osorio,Corona Metal Ceramica,"24, 29, 44",OM3,Vitapan,False,Paciente sensible.,2024-07-14,2024-07-18,,True
+776,Sebastián Alzate,Mauricio Rodriguez,Catalina Rendón,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-06-19,2024-06-21,,True
+777,Odonto Sonrisa,Esteban Zuluaga,David Zuluaga,Corona sobre Implante con Pilar Titanio,26,D3,Duratone,True,Paciente sensible.,2024-09-09,2024-09-15,2024-09-21,False
+778,Ortodoncia Avanzada,Pablo Escobar,Santiago Pérez,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-07-23,2024-07-26,2024-07-28,False
+779,Clínica Dental Armonía,David Ospina,Lucía Osorio,Hyrax,Superior e Inferior,N/A,N/A,True,Alta estética.,2025-01-16,2025-01-25,,True
+780,Luisa Fernanda Díaz,Mauricio Rodriguez,Camila Montoya,Retenedores de Ortodoncia Placa de Hawley,Inferior,N/A,N/A,False,Revisar oclusión.,2024-07-26,2024-08-03,2024-08-09,False
+781,Dr. Camilo Gaviria,Fernando Quintero,Ricardo Alfonso Hoyos,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2024-11-05,2024-11-08,,True
+782,Smile Design Center,Felipe Montoya,Carolina Rivera,Protesis Removible,"41, 28, 45",OM2,Duratone,True,Revisar oclusión.,2024-06-12,2024-06-21,,True
+783,Jorge Alberto Ruiz,Natalia Soto,Samuel Bustamante,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Revisar oclusión.,2024-11-22,2024-11-26,,True
+784,Mariana Vélez,Mariana Vélez,Arturo Montoya,Placa Estetica,"38, 37, 47",OM3,Vitapan,False,Paciente sensible.,2025-05-11,2025-05-19,,True
+785,Dr. Mauricio Restrepo,María Fernanda Ortiz,Martín Quintero,Corona Metal Ceramica,"18, 45, 48, 41",A3.5,Duratone,False,Procedimiento rutinario.,2024-12-05,2024-12-12,2024-12-15,False
+786,Dra. Liliana Cifuentes,David Ospina,Lucía Osorio,Provisional,"28, 36, 45",C2,Biodent,False,Paciente sensible.,2024-11-27,2024-11-29,2024-12-01,False
+787,Implantes Dentales Medellín,Andrea Carolina Mesa,Sara Victoria Tamayo,Corona Metal Ceramica,"47, 12, 20",OM2,Vitapan,True,Requiere ajuste.,2024-10-22,2024-11-01,,True
+788,DentistPro,Camilo Torres,Angie Paola Vargas,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Revisar oclusión.,2025-05-10,2025-05-18,,True
+789,Jorge Alberto Ruiz,Martín Valencia,Julian Alberto Cano,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Revisar oclusión.,2024-11-11,2024-11-16,2024-11-19,False
+790,Ortodoncia Plus,Martín Valencia,Lucía Osorio,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Alta estética.,2024-12-08,2024-12-15,,True
+791,OdontoKids,Santiago Rojas,Silvana Restrepo,Corona sobre Implante con Pilar Titanio,"35, 23, 23",OM1,Vitapan,False,Requiere ajuste.,2024-08-15,2024-08-18,,True
+792,Natalia Soto,Juan Pablo Gómez,Ricardo Alfonso Hoyos,Corona sobre Implante con Pilar Personalizado,19,A3.5,Vitapan,False,Paciente sensible.,2025-01-18,2025-01-26,2025-01-29,False
+793,Oral Health Solutions,Alejandro Vélez,Andrea Gómez,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Alta estética.,2024-11-03,2024-11-04,,True
+794,Dr. Fernando Quintero,Martín Valencia,Martín Quintero,Corona sobre Implante con Pilar Titanio,"32, 27",A1,Vita 3D Master,True,Procedimiento rutinario.,2025-04-16,2025-04-26,,True
+795,Sonrisas Sanas,Carolina Mesa,Martín Quintero,Hyrax,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-10-18,2024-10-22,,True
+796,Centro Estético Dental,Natalia Soto,Arturo Montoya,Placa de Bruxismo,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-10-23,2024-10-27,2024-10-31,False
+797,Dra. Sofía Vargas,Fernando Quintero,Nicolás Castro,Placa de Bruxismo,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2025-05-07,2025-05-15,,True
+798,Odonto Sonrisa,Laura Ospina,Valeria Alejandra Gil,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2025-05-17,2025-05-20,,True
+799,Centro Odontológico Integral,Javier Restrepo,Mateo Giraldo,Corona sobre Implante con Pilar Titanio,"26, 45, 36, 44",C1,Vita 3D Master,True,Procedimiento rutinario.,2025-05-29,2025-06-08,2025-06-15,False
+800,Ortodoncia Plus,Jorge Alberto Ruiz,Felipe Marín,Corona sobre Implante con Pilar Titanio,"30, 44, 33, 13",C1,Duratone,True,Procedimiento rutinario.,2024-07-12,2024-07-19,,True
+801,Jorge Alberto Ruiz,Juan José Correa,Andrea Gómez,Corona sobre Implante con Pilar Titanio,"31, 48, 31",A4,Biodent,True,Requiere ajuste.,2024-08-11,2024-08-17,,True
+802,Centro Odontológico Integral,Camilo Gaviria,Diego Alejandro Sierra,Provisional,"35, 47",B1,Vita 3D Master,False,Paciente sensible.,2025-05-06,2025-05-10,,True
+803,Juan José Correa,José Luis Cardona,Angie Paola Vargas,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Revisar oclusión.,2025-05-22,2025-05-26,2025-05-30,False
+804,Pedro Sánchez,Mauricio Rodriguez,Martín Quintero,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Paciente sensible.,2024-07-13,2024-07-22,,True
+805,Natalia Soto,Andrea Carolina Mesa,Juan Pablo Arias,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-02-19,2025-02-26,,True
+806,Clínica Dental Nova,Lorena Henao,Catalina Rendón,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Alta estética.,2024-06-19,2024-06-25,2024-06-30,False
+807,Odontología Estética,Luisa Fernanda Díaz,Juan Camilo Botero,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Requiere ajuste.,2024-07-04,2024-07-10,2024-07-17,False
+808,Dental Kids,Andrea Giraldo,Angie Paola Vargas,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,False,Alta estética.,2025-02-17,2025-02-19,2025-02-21,False
+809,Clínica Dental Familias,Miguel Ángel Sierra,Manuela Cárdenas,Placa Estetica,"33, 37, 37",BL4,Vitapan,True,Requiere ajuste.,2025-02-09,2025-02-16,2025-02-22,False
+810,Salud Dental Familiar,Santiago Rojas,Santiago Pérez,Corona sobre Implante con Pilar Titanio,"44, 18, 23",D3,Duratone,False,Requiere ajuste.,2025-01-19,2025-01-21,2025-01-28,False
+811,Dr. Camilo Gaviria,Paula Andrea Morales,Laura Cristina Jaramillo,Protesis Removible,"32, 28, 29",BL1,Duratone,False,Alta estética.,2024-12-21,2024-12-28,2025-01-04,False
+812,Ortodoncia Plus,María Fernanda Ortiz,Paulina Alzate,Hyrax,Inferior,N/A,N/A,False,Alta estética.,2025-03-19,2025-03-26,2025-04-02,False
+813,Clínica Dental Sonríe,Miguel Ángel Sierra,Arturo Montoya,Placa de Bruxismo,Inferior,N/A,N/A,False,Revisar oclusión.,2024-12-23,2025-01-01,,True
+814,Pedro Sánchez,Jorge Alberto Ruiz,Alejandro Herrera,Corona Metal Ceramica,"43, 12, 17, 13",A3.5,Vitapan,False,Paciente sensible.,2025-01-18,2025-01-23,,True
+815,Mariana Vélez,Elena Gómez,Emmanuel Franco,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-01-19,2025-01-25,2025-01-29,False
+816,Natalia Soto,Natalia Soto,Carolina Rivera,Corona sobre Implante con Pilar Titanio,"33, 44, 42, 15",D2,Duratone,True,Alta estética.,2024-07-01,2024-07-05,2024-07-12,False
+817,Dra. Liliana Cifuentes,José Luis Cardona,Valeria López,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,False,Revisar oclusión.,2024-09-22,2024-09-23,2024-09-28,False
+818,Clínica Dental del Centro,David Ospina,Diego Alejandro Sierra,Corona sobre Implante con T-base,"43, 29, 37",A3,Duratone,False,Alta estética.,2025-02-27,2025-03-08,2025-03-13,False
+819,Ortodoncia Plus,Valentina Cano,Diego Alejandro Sierra,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2024-12-28,2025-01-05,,True
+820,Clínica Dental Bienestar,Elena Gómez,Valeria López,Corona Metal Ceramica,"16, 12, 47",D4,Vitapan,True,Alta estética.,2025-04-15,2025-04-17,2025-04-22,False
+821,Pedro Sánchez,Sara Jaramillo,Victoria Suárez,Hyrax,Superior,N/A,N/A,True,Alta estética.,2024-06-30,2024-07-10,2024-07-16,False
+822,Andrea Carolina Mesa,Roberto Morales,Carolina Rivera,Corona Metal Ceramica,"28, 30, 19",A3,Vitapan,False,Procedimiento rutinario.,2025-03-26,2025-03-30,2025-04-03,False
+823,Implantes Dentales Medellín,Gabriela Rojas,Sara Victoria Tamayo,Corona sobre Implante con Pilar Personalizado,"33, 33, 27, 28",BL2,Biodent,False,Procedimiento rutinario.,2024-09-15,2024-09-22,,True
+824,VitalDent,Ricardo Pérez,Mateo Giraldo,Corona sobre Implante con T-base,"48, 37, 13, 12",BL2,Duratone,True,Paciente sensible.,2024-08-27,2024-08-29,,True
+825,VitalDent,Camilo Gaviria,Silvana Restrepo,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Revisar oclusión.,2024-07-15,2024-07-16,,True
+826,Odontopediatría Integral,Clara Inés Duque,Andrea Gómez,Hyrax,Superior,N/A,N/A,True,Paciente sensible.,2024-07-17,2024-07-27,,True
+827,Clínica Dental Sonríe,Carlos López,Sofía Ramírez,Corona sobre Implante con T-base,26,A2,Biodent,True,Procedimiento rutinario.,2025-03-25,2025-04-04,2025-04-11,False
+828,Andrea Carolina Mesa,Camilo Gaviria,Diego Alejandro Sierra,Placa Estetica,"16, 25, 38",B1,Vitapan,True,Paciente sensible.,2025-02-12,2025-02-16,,True
+829,Centro Odontológico Integral,Paula Andrea Morales,Natalia Andrea Vélez,Corona Totalmente Ceramica,37,OM1,Vitapan,True,Revisar oclusión.,2025-05-23,2025-06-02,2025-06-07,False
+830,VitalDent,Miguel Ángel Sierra,Santiago Pérez,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-06-28,2024-07-04,,True
+831,Dra. Sara Jaramillo,José Luis Cardona,Esteban Saldarriaga,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2025-01-08,2025-01-10,,True
+832,Pedro Sánchez,Clara Inés Duque,Angie Paola Vargas,Corona sobre Implante con Pilar Personalizado,"47, 48",C1,Vita 3D Master,False,Revisar oclusión.,2024-07-21,2024-07-30,2024-08-05,False
+833,Natalia Soto,Santiago Rojas,Samuel Bustamante,Placa de Bruxismo,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-05-12,2025-05-13,,True
+834,Dr. Camilo Gaviria,Ricardo Pérez,Silvana Restrepo,Protesis Removible,"38, 47, 22, 44",B2,Vitapan,False,Procedimiento rutinario.,2024-10-20,2024-10-21,2024-10-23,False
+835,Salud Dental Familiar,Diego Salazar,Cristian Bermúdez,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,False,Alta estética.,2024-08-12,2024-08-21,,True
+836,Estética Dental Premium,Andrea Carolina Mesa,Daniela Valencia,Provisional,"44, 30",D3,Biodent,False,Procedimiento rutinario.,2024-11-29,2024-12-07,2024-12-11,False
+837,Clínica Dental Nova,Laura Ospina,Daniel Alzate,Provisional,"16, 25, 44",D2,Vitapan,False,Revisar oclusión.,2025-02-17,2025-02-27,2025-03-04,False
+838,Andrea Carolina Mesa,Pedro Sánchez,Carlos Andrés Ruiz,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Alta estética.,2025-02-11,2025-02-17,2025-02-23,False
+839,Dr. Alejandro Vélez,Miguel Ángel Sierra,Sofía Ramírez,Corona sobre Implante con Pilar Personalizado,"31, 15, 33, 44",OM3,Vitapan,False,Revisar oclusión.,2024-07-30,2024-08-09,,True
+840,Clínica Dental Nova,Fernando Quintero,Juan Pablo Arias,Provisional,17,BL4,Duratone,True,Revisar oclusión.,2025-02-19,2025-02-26,,True
+841,Clínica Odontológica del Sur,Valeria Duque,Carolina Rivera,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-02-26,2025-03-03,,True
+842,Ortodoncia Avanzada,Sara Jaramillo,Ana Sofía Correa,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Alta estética.,2025-02-08,2025-02-09,2025-02-10,False
+843,Odonto Sonrisa,Valentina Cano,Carlos Andrés Ruiz,Corona sobre Implante con Pilar Personalizado,18,A2,Duratone,False,Paciente sensible.,2025-04-15,2025-04-25,2025-05-01,False
+844,Dra. Liliana Cifuentes,Martín Valencia,Manuela Cárdenas,Hyrax,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2025-01-31,2025-02-07,,True
+845,Clínica Dental del Centro,Diego Salazar,Laura Cristina Jaramillo,Guia Quirurgica,Inferior,N/A,N/A,True,Alta estética.,2024-07-28,2024-08-04,2024-08-05,False
+846,Ortodoncia Plus,Juan José Correa,Carolina Rivera,Corona sobre Implante con T-base,"37, 27, 26",OM2,Duratone,True,Paciente sensible.,2025-04-23,2025-04-28,2025-05-01,False
+847,Dental Excellence,Valeria Duque,Mariana Vélez,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-01-11,2025-01-15,2025-01-18,False
+848,Centro Odontológico Integral,Liliana Cifuentes,Isabella Mejía,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-11-01,2024-11-04,2024-11-07,False
+849,Sonrisas Sanas,Mauricio Rodriguez,José Miguel Soto,Placa de Bruxismo,Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-09-18,2024-09-21,2024-09-27,False
+850,Clínica Odontológica del Sur,Mauricio Rodriguez,Paulina Alzate,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,False,Alta estética.,2024-07-16,2024-07-19,,True
+851,Ortodoncia Avanzada,Diana Marcela Ríos,Sofía Ramírez,Guia Quirurgica,Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-01-29,2025-01-31,2025-02-04,False
+852,Clínica Dental Bienestar,Patricia Acevedo,Paulina Alzate,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Alta estética.,2025-05-25,2025-05-31,2025-06-03,False
+853,Jorge Alberto Ruiz,Pedro Sánchez,Carlos Andrés Ruiz,Corona sobre Implante con Pilar Personalizado,"24, 14, 38, 15",OM2,Duratone,False,Paciente sensible.,2024-06-18,2024-06-25,2024-07-01,False
+854,Sebastián Alzate,Daniela Marín,Juan Pablo Arias,Hyrax,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2025-01-28,2025-02-04,,True
+855,Centro Odontológico Integral,Sofía Vargas,Daniel Alzate,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,True,Alta estética.,2025-05-31,2025-06-03,,True
+856,Ortodoncia Avanzada,Juan Pablo Gómez,David Zuluaga,Hyrax,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-10-10,2024-10-17,,True
+857,Mariana Vélez,Mauricio Rodriguez,David Zuluaga,Corona sobre Implante con T-base,"14, 29",D4,Biodent,False,Procedimiento rutinario.,2025-04-23,2025-04-30,,True
+858,Pedro Sánchez,Patricia Acevedo,Felipe Marín,Corona Totalmente Ceramica,39,BL2,Vita 3D Master,True,Procedimiento rutinario.,2025-04-30,2025-05-04,2025-05-10,False
+859,Luisa Fernanda Díaz,Andrea Carolina Mesa,Martín Quintero,Provisional,"20, 33, 45",A4,Biodent,False,Alta estética.,2024-06-28,2024-07-01,2024-07-07,False
+860,Oral Health Solutions,Valentina Cano,Sara Victoria Tamayo,Placa de Bruxismo,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2025-03-17,2025-03-25,2025-03-31,False
+861,Ortodoncia Plus,Laura Ospina,Manuela Cárdenas,Perno,"26, 14, 29, 32",N/A,N/A,True,Paciente sensible.,2025-02-21,2025-02-24,,True
+862,Diana Marcela Ríos,Martín Valencia,Samuel Bustamante,Placa de Bruxismo,Superior,N/A,N/A,False,Requiere ajuste.,2024-11-06,2024-11-16,2024-11-22,False
+863,Dental Excellence,Andrés Felipe Castro,Sara Victoria Tamayo,Placa Estetica,"39, 20, 24, 42",A3.5,Biodent,False,Requiere ajuste.,2024-06-17,2024-06-19,2024-06-22,False
+864,Maxilofacial & Implantes,Natalia Soto,Laura Giraldo,Perno,"16, 25, 21, 18",N/A,N/A,True,Procedimiento rutinario.,2024-10-26,2024-10-31,2024-11-05,False
+865,Smile Design Center,Valentina Cano,Felipe Marín,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-03-30,2025-04-03,2025-04-05,False
+866,Sonrisas Sanas,Pablo Escobar,Valentina Ospina,Corona Totalmente Ceramica,45,A3.5,Biodent,True,Alta estética.,2024-06-20,2024-06-28,,True
+867,Dra. Clara Inés Duque,Santiago Rojas,Emmanuel Franco,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,False,Alta estética.,2024-06-05,2024-06-08,2024-06-12,False
+868,Dra. Liliana Cifuentes,Valeria Duque,Daniel Alzate,Corona Totalmente Ceramica,"11, 44, 43, 30",B4,Vitapan,False,Procedimiento rutinario.,2024-07-07,2024-07-14,2024-07-20,False
+869,Dr. Mauricio Restrepo,Carolina Mesa,Sara Victoria Tamayo,Corona Totalmente Ceramica,"48, 21, 33, 38",C1,Duratone,True,Paciente sensible.,2025-04-13,2025-04-19,2025-04-24,False
+870,Sebastián Alzate,Andrea Giraldo,Camila Montoya,Corona sobre Implante con Pilar Personalizado,"36, 12",B1,Vitapan,True,Paciente sensible.,2025-01-17,2025-01-26,,True
+871,Clínica Dental del Norte,Andrea Carolina Mesa,Natalia Andrea Vélez,Corona Totalmente Ceramica,"12, 13",D4,Biodent,False,Paciente sensible.,2024-09-24,2024-10-01,2024-10-02,False
+872,Odontología Estética,Esteban Zuluaga,Julian Alberto Cano,Guia Quirurgica,Inferior,N/A,N/A,False,Alta estética.,2024-11-04,2024-11-08,,True
+873,Sonrisas Saludables,Andrea Giraldo,Juan Pablo Arias,Corona sobre Implante con Pilar Titanio,"35, 36",C2,Duratone,False,Revisar oclusión.,2024-11-10,2024-11-12,2024-11-17,False
+874,Dra. Sofía Vargas,Valeria Duque,Ana Sofía Correa,Corona sobre Implante con Pilar Personalizado,"29, 34, 41",D4,Vitapan,False,Procedimiento rutinario.,2025-04-28,2025-05-07,2025-05-14,False
+875,Mariana Vélez,Luisa Fernanda Díaz,Juan David Restrepo,Aparatos Funcionales de Odontopediatría Frankel 2,Superior,N/A,N/A,False,Paciente sensible.,2025-02-20,2025-02-24,2025-02-28,False
+876,Dr. Miguel Ángel Sierra,Ricardo Pérez,Julian Alberto Cano,Protesis Removible,"19, 30",D2,Vita 3D Master,True,Procedimiento rutinario.,2025-03-23,2025-03-26,2025-04-01,False
+877,Sonrisas Sanas,Esteban Zuluaga,Natalia Andrea Vélez,Aparatos Funcionales de Odontopediatría Frankel 3,Superior e Inferior,N/A,N/A,False,Alta estética.,2024-07-20,2024-07-24,2024-07-26,False
+878,Odontopediatría Integral,Juan José Correa,Isabella Mejía,Retenedores de Ortodoncia Placa de Hawley,Superior,N/A,N/A,False,Paciente sensible.,2024-10-17,2024-10-19,2024-10-20,False
+879,Clínica Dental Armonía,Pablo Escobar,Juan David Restrepo,Protesis Removible,"48, 25, 41, 27",A4,Biodent,False,Paciente sensible.,2024-08-04,2024-08-08,,True
+880,Natalia Soto,Juan Felipe Restrepo,Cristian Bermúdez,Guia Quirurgica,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-10-26,2024-11-04,,True
+881,Clínica Dental Armonía,Andrea Giraldo,Mariana Vélez,Aparatos Funcionales de Odontopediatría Bionator,Inferior,N/A,N/A,True,Requiere ajuste.,2025-01-26,2025-02-02,,True
+882,Dr. Miguel Ángel Sierra,Carlos López,Manuela Cárdenas,Corona sobre Implante con Pilar Titanio,"32, 23, 33",A2,Vita 3D Master,False,Procedimiento rutinario.,2024-08-20,2024-08-21,2024-08-27,False
+883,Smile Design Center,Andrea Giraldo,Carlos Andrés Ruiz,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Procedimiento rutinario.,2024-10-16,2024-10-18,2024-10-22,False
+884,Dra. Sofía Vargas,Patricia Acevedo,Gabriela Morales,Corona Metal Ceramica,"36, 11, 40, 25",C2,Duratone,True,Alta estética.,2025-01-28,2025-02-01,,True
+885,Clínica Odontológica del Sur,Sara Jaramillo,Emmanuel Franco,Corona Metal Ceramica,44,A3.5,Vita 3D Master,True,Procedimiento rutinario.,2024-09-04,2024-09-14,2024-09-16,False
+886,Maxilofacial & Implantes,Carolina Mesa,Sara Victoria Tamayo,Perno,"48, 24, 44",N/A,N/A,True,Procedimiento rutinario.,2024-06-05,2024-06-09,2024-06-10,False
+887,Natalia Soto,Esteban Zuluaga,Laura Cristina Jaramillo,Provisional,"46, 17, 30",B2,Vitapan,True,Revisar oclusión.,2024-12-30,2025-01-08,2025-01-10,False
+888,Dr. Fernando Quintero,Felipe Montoya,Andrea Gómez,Guia Quirurgica,Superior,N/A,N/A,False,Revisar oclusión.,2024-11-10,2024-11-14,,True
+889,Dr. Camilo Gaviria,David Ospina,David Zuluaga,Corona sobre Implante con T-base,"45, 17, 15",A4,Vitapan,False,Revisar oclusión.,2024-11-06,2024-11-15,,True
+890,Pedro Sánchez,Paula Andrea Morales,Angie Paola Vargas,Hyrax,Superior,N/A,N/A,True,Paciente sensible.,2024-09-18,2024-09-23,,True
+891,Clínica Dental Nova,Mariana Vélez,Miguel Ángel Tobón,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Revisar oclusión.,2025-01-16,2025-01-25,2025-01-27,False
+892,Dra. Sofía Vargas,Carlos López,Mateo Giraldo,Corona sobre Implante con Pilar Personalizado,25,BL4,Vita 3D Master,False,Procedimiento rutinario.,2024-12-10,2024-12-16,2024-12-22,False
+893,Pedro Sánchez,Sara Jaramillo,Ana Sofía Correa,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Paciente sensible.,2024-12-10,2024-12-11,,True
+894,OdontoKids,Pedro Sánchez,Samuel Bustamante,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-04-04,2025-04-07,,True
+895,Ortodoncia Avanzada,Clara Inés Duque,Diego Alejandro Sierra,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Requiere ajuste.,2025-06-02,2025-06-06,,True
+896,DentistPro,Andrea Carolina Mesa,Gabriela Morales,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Paciente sensible.,2025-04-23,2025-04-26,,True
+897,Salud Oral Integral,Mauricio Rodriguez,Manuela Cárdenas,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Revisar oclusión.,2024-11-07,2024-11-13,2024-11-19,False
+898,Oral Health Solutions,Laura Ospina,Catalina Rendón,Guia Quirurgica,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-07-19,2024-07-22,2024-07-23,False
+899,Maxilofacial & Implantes,María Fernanda Ortiz,Arturo Montoya,Placa de Bruxismo,Superior,N/A,N/A,True,Paciente sensible.,2025-02-28,2025-03-04,,True
+900,Dental Excellence,Carolina Mesa,Laura Cristina Jaramillo,Corona Metal Ceramica,"33, 44, 30, 31",BL1,Vita 3D Master,True,Alta estética.,2025-01-08,2025-01-18,,True
+901,Smile Design Center,José Luis Cardona,Sofía Ramírez,Hyrax,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-05-18,2025-05-27,,True
+902,Odonto Sonrisa,Natalia Soto,David Zuluaga,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Alta estética.,2024-12-15,2024-12-23,2024-12-27,False
+903,Mariana Vélez,Sebastián Alzate,Angie Paola Vargas,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,True,Requiere ajuste.,2025-03-24,2025-03-28,,True
+904,Maxilofacial & Implantes,Ana María Pérez,Gabriela Morales,Corona sobre Implante con Pilar Titanio,34,OM3,Duratone,False,Requiere ajuste.,2025-01-08,2025-01-12,,True
+905,Maxilofacial & Implantes,Valeria Duque,Lucía Osorio,Aparatos Funcionales de Odontopediatría Frankel 1,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-08-19,2024-08-24,2024-08-29,False
+906,DentistPro,Martín Valencia,Carlos Andrés Ruiz,Placa Estetica,"30, 17",B2,Vitapan,True,Alta estética.,2024-11-30,2024-12-09,2024-12-15,False
+907,Diana Marcela Ríos,Diego Salazar,Daniela Valencia,Protesis Removible,"40, 34",B2,Duratone,True,Requiere ajuste.,2024-11-30,2024-12-04,,True
+908,Natalia Soto,Clara Inés Duque,Valentina Ospina,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Requiere ajuste.,2024-12-07,2024-12-16,2024-12-22,False
+909,Dr. Fernando Quintero,Laura Ospina,Paulina Alzate,Placa de Bruxismo,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-08-12,2024-08-21,2024-08-26,False
+910,Diana Marcela Ríos,Juan Pablo Gómez,Andrés Felipe Marulanda,Perno,"44, 28, 29, 16",N/A,N/A,True,Alta estética.,2024-09-13,2024-09-22,,True
+911,Dr. Fernando Quintero,Alejandro Vélez,Sebastián Duque,Corona Metal Ceramica,47,OM2,Vitapan,False,Alta estética.,2024-10-14,2024-10-16,,True
+912,Dr. Fernando Quintero,Daniela Marín,Martín Quintero,Provisional,"41, 39",A3,Vita 3D Master,False,Paciente sensible.,2024-07-15,2024-07-21,2024-07-25,False
+913,Ortodoncia Avanzada,Gabriela Rojas,Alejandro Herrera,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,False,Requiere ajuste.,2024-06-07,2024-06-11,2024-06-13,False
+914,David Ospina,Laura Ospina,Felipe Marín,Provisional,"32, 21",A3.5,Vitapan,False,Paciente sensible.,2024-09-22,2024-09-26,2024-10-03,False
+915,Sonrisas Brillantes,Martín Valencia,Valeria Alejandra Gil,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,True,Procedimiento rutinario.,2025-03-04,2025-03-07,2025-03-10,False
+916,Odonto Sonrisa,Andrea Carolina Mesa,Ana Sofía Correa,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,True,Revisar oclusión.,2024-06-28,2024-07-06,2024-07-09,False
+917,Clínica Dental Nova,Ana María Pérez,Laura Cristina Jaramillo,Aparatos Funcionales de Odontopediatría Bionator,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-05-29,2025-06-07,2025-06-13,False
+918,Clínica Dental del Norte,Felipe Montoya,Felipe Marín,Placa Estetica,"33, 18",A3.5,Biodent,True,Paciente sensible.,2025-04-11,2025-04-12,,True
+919,Sebastián Alzate,Martín Valencia,Gabriela Morales,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Requiere ajuste.,2025-05-09,2025-05-10,,True
+920,Juan José Correa,Ricardo Pérez,Paula Andrea Díaz,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Paciente sensible.,2025-03-12,2025-03-15,2025-03-21,False
+921,Clínica Dental Familias,Martín Valencia,Andrés Felipe Marulanda,Guia Quirurgica,Superior,N/A,N/A,True,Requiere ajuste.,2024-09-12,2024-09-15,,True
+922,Dr. Alejandro Vélez,Andrea Carolina Mesa,Isabella Mejía,Corona Metal Ceramica,27,BL3,Vitapan,False,Alta estética.,2025-03-02,2025-03-06,2025-03-09,False
+923,Dra. Clara Inés Duque,Sara Jaramillo,Valentina Ospina,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-08-04,2024-08-10,2024-08-15,False
+924,Clínica Dental del Centro,Mateo Vargas,Camila Montoya,Placas de Ortodoncia Tipo Invisalign,Inferior,N/A,N/A,True,Alta estética.,2025-01-07,2025-01-10,,True
+925,Clínica Dental Nova,Fernando Quintero,Manuela Cárdenas,Placa Estetica,34,A3.5,Vitapan,True,Paciente sensible.,2024-07-22,2024-07-28,2024-07-29,False
+926,Oral Health Solutions,Elena Gómez,Victoria Suárez,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,True,Revisar oclusión.,2024-12-05,2024-12-09,2024-12-13,False
+927,Clínica Dental Nova,Camilo Gaviria,Cristian Bermúdez,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Paciente sensible.,2024-10-20,2024-10-25,,True
+928,OdontoKids,Martín Valencia,Juan Camilo Botero,Placa Estetica,40,B1,Duratone,False,Procedimiento rutinario.,2024-12-29,2025-01-02,2025-01-04,False
+929,Pedro Sánchez,Juan Felipe Restrepo,Silvana Restrepo,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Paciente sensible.,2024-09-29,2024-09-30,,True
+930,Clínica Dental Familias,Fernando Quintero,Victoria Suárez,Guia Quirurgica,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-05-03,2025-05-07,,True
+931,OdontoKids,Gabriela Rojas,Sara Victoria Tamayo,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2025-02-11,2025-02-17,2025-02-19,False
+932,Sonrisas Brillantes,David Ospina,Mariana Vélez,Guia Quirurgica,Superior,N/A,N/A,True,Procedimiento rutinario.,2025-04-22,2025-04-25,2025-04-29,False
+933,Clínica Dental del Centro,Carlos López,Samuel Bustamante,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-08-13,2024-08-19,,True
+934,Dr. Alejandro Vélez,Jorge Alberto Ruiz,Felipe Marín,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-12-04,2024-12-10,2024-12-15,False
+935,Smile Design Center,Pedro Sánchez,Sara Victoria Tamayo,Retenedores de Ortodoncia Placa de Hawley,Superior e Inferior,N/A,N/A,True,Revisar oclusión.,2024-07-18,2024-07-20,2024-07-26,False
+936,Salud Dental Familiar,Daniela Marín,Valeria López,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-09-21,2024-09-30,2024-10-02,False
+937,Jorge Alberto Ruiz,Liliana Cifuentes,José Miguel Soto,Corona sobre Implante con Pilar Personalizado,"42, 24, 36",BL2,Duratone,True,Procedimiento rutinario.,2024-11-27,2024-11-30,,True
+938,Odontopediatría Integral,José Luis Cardona,Esteban Saldarriaga,Perno,"21, 26, 15",N/A,N/A,False,Paciente sensible.,2024-10-04,2024-10-12,2024-10-16,False
+939,Andrea Carolina Mesa,Lorena Henao,Juan Camilo Botero,Corona Totalmente Ceramica,"28, 27, 33, 31",OM1,Duratone,True,Revisar oclusión.,2024-11-02,2024-11-12,,True
+940,Implantes Dentales Medellín,Juan José Correa,Arturo Montoya,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,True,Paciente sensible.,2024-06-06,2024-06-12,,True
+941,Salud Dental Familiar,Santiago Rojas,Silvana Restrepo,Protesis Removible,24,D2,Vita 3D Master,True,Requiere ajuste.,2025-04-25,2025-04-29,,True
+942,Andrea Carolina Mesa,Laura Ospina,Victoria Suárez,Placa Estetica,"41, 41, 31",B2,Duratone,True,Alta estética.,2024-12-06,2024-12-13,2024-12-20,False
+943,Dr. Juan Pablo Gómez,Alejandro Vélez,Daniela Valencia,Placas de Ortodoncia Tipo Invisalign,Superior e Inferior,N/A,N/A,True,Alta estética.,2025-01-25,2025-02-04,2025-02-07,False
+944,Natalia Soto,Martín Valencia,Lucía Osorio,Placa Estetica,12,OM3,Biodent,False,Revisar oclusión.,2024-12-06,2024-12-10,2024-12-15,False
+945,Clínica Dental Nova,Martín Valencia,Samuel Bustamante,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Paciente sensible.,2024-07-22,2024-07-27,,True
+946,Clínica Dental Armonía,María Fernanda Ortiz,Daniel Alzate,Corona sobre Implante con Pilar Personalizado,"45, 13",OM3,Biodent,True,Paciente sensible.,2024-08-07,2024-08-10,2024-08-17,False
+947,Dr. Alejandro Vélez,Clara Inés Duque,Ana Sofía Correa,Corona sobre Implante con Pilar Titanio,11,B1,Duratone,False,Requiere ajuste.,2025-02-14,2025-02-24,2025-03-01,False
+948,Dental Excellence,Juan José Correa,Paulina Alzate,Corona Metal Ceramica,"25, 32",OM3,Biodent,True,Alta estética.,2025-01-28,2025-01-30,,True
+949,Dra. Liliana Cifuentes,Camilo Torres,Silvana Restrepo,Hyrax,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-01-29,2025-02-04,2025-02-09,False
+950,Dra. Sofía Vargas,Clara Inés Duque,Simón Orozco,Aparatos Funcionales de Odontopediatría Frankel 3,Inferior,N/A,N/A,True,Revisar oclusión.,2025-03-24,2025-03-30,2025-04-02,False
+951,Dra. Sara Jaramillo,Santiago Rojas,Santiago Pérez,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,True,Requiere ajuste.,2024-06-12,2024-06-13,2024-06-15,False
+952,Juan José Correa,Jorge Alberto Ruiz,Samuel Bustamante,Corona Metal Ceramica,"40, 26",A1,Vitapan,False,Paciente sensible.,2025-01-08,2025-01-11,,True
+953,Juan José Correa,Liliana Cifuentes,Juan Camilo Botero,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Requiere ajuste.,2025-01-30,2025-02-04,2025-02-11,False
+954,Clínica Dental del Centro,Esteban Zuluaga,José Miguel Soto,Guia Quirurgica,Inferior,N/A,N/A,False,Requiere ajuste.,2025-05-06,2025-05-15,2025-05-21,False
+955,Diana Marcela Ríos,Sebastián Alzate,Gabriela Morales,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,True,Paciente sensible.,2025-01-07,2025-01-10,,True
+956,Dr. Mauricio Restrepo,Diana Marcela Ríos,Laura Cristina Jaramillo,Corona Totalmente Ceramica,"29, 19",D4,Vitapan,False,Requiere ajuste.,2025-02-18,2025-02-23,,True
+957,Clínica Dental Bienestar,Alejandro Vélez,Carolina Rivera,Placas de Ortodoncia Tipo Invisalign,Superior,N/A,N/A,False,Alta estética.,2025-01-06,2025-01-12,,True
+958,OdontoKids,Daniela Marín,Mariana Vélez,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2024-10-21,2024-10-28,2024-10-29,False
+959,Smile Design Center,Diana Marcela Ríos,Ana Sofía Correa,Corona Metal Ceramica,"45, 26",B2,Duratone,False,Paciente sensible.,2024-07-29,2024-08-08,2024-08-09,False
+960,Andrea Carolina Mesa,Felipe Montoya,Andrea Gómez,Hyrax,Inferior,N/A,N/A,False,Requiere ajuste.,2025-02-21,2025-03-02,,True
+961,Clínica Dental Familias,Diana Marcela Ríos,Catalina Rendón,Perno,"32, 12, 30",N/A,N/A,False,Paciente sensible.,2024-12-06,2024-12-10,2024-12-11,False
+962,Dr. Camilo Gaviria,Sofía Vargas,Angie Paola Vargas,Placa de Bruxismo,Superior e Inferior,N/A,N/A,False,Alta estética.,2025-05-12,2025-05-13,2025-05-17,False
+963,Dr. Fernando Quintero,Natalia Soto,Angie Paola Vargas,Corona Totalmente Ceramica,"43, 15, 44, 37",A1,Vitapan,True,Alta estética.,2025-03-30,2025-04-01,,True
+964,Salud Oral Integral,Clara Inés Duque,Andrea Gómez,Aparatos Funcionales de Odontopediatría Frankel 3,Superior,N/A,N/A,False,Requiere ajuste.,2025-03-23,2025-03-27,2025-04-01,False
+965,Clínica Dental del Centro,Juan Pablo Gómez,Isabella Mejía,Corona Totalmente Ceramica,32,C4,Vita 3D Master,True,Paciente sensible.,2024-06-22,2024-06-26,2024-06-29,False
+966,Clínica Dental Armonía,Laura Ospina,Esteban Saldarriaga,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,False,Paciente sensible.,2025-05-03,2025-05-13,,True
+967,Pedro Sánchez,Natalia Soto,Sebastián Duque,Perno,"25, 12, 15",N/A,N/A,False,Requiere ajuste.,2025-01-01,2025-01-11,2025-01-12,False
+968,Clínica Odontológica del Sur,Valentina Cano,Carlos Andrés Ruiz,Aparatos Funcionales de Odontopediatría Frankel 1,Superior,N/A,N/A,False,Alta estética.,2024-11-10,2024-11-13,,True
+969,Clínica Dental Sonríe,Felipe Montoya,Mariana Vélez,Hyrax,Superior,N/A,N/A,True,Revisar oclusión.,2025-04-10,2025-04-19,2025-04-24,False
+970,Clínica Dental Sonríe,Sebastián Alzate,Camila Montoya,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-10-19,2024-10-28,2024-10-30,False
+971,Sebastián Alzate,Mariana Vélez,Emmanuel Franco,Corona sobre Implante con T-base,"45, 16, 12",B1,Biodent,False,Procedimiento rutinario.,2024-09-24,2024-09-27,,True
+972,Centro Odontológico Integral,Valentina Cano,Ricardo Alfonso Hoyos,Hyrax,Superior,N/A,N/A,True,Revisar oclusión.,2025-01-25,2025-01-30,2025-02-04,False
+973,Sebastián Alzate,Carolina Mesa,Mariana Vélez,Corona Metal Ceramica,"27, 44",C4,Vitapan,True,Requiere ajuste.,2024-09-16,2024-09-22,2024-09-29,False
+974,Salud Dental Familiar,Mauricio Rodriguez,Juan David Restrepo,Corona sobre Implante con Pilar Personalizado,"13, 33, 13",D4,Biodent,False,Paciente sensible.,2024-11-26,2024-12-04,,True
+975,Clínica Dental Sonríe,David Ospina,José Miguel Soto,Corona Totalmente Ceramica,"45, 37, 26, 15",B2,Vita 3D Master,False,Procedimiento rutinario.,2024-12-12,2024-12-13,2024-12-15,False
+976,Oral Health Solutions,María Fernanda Ortiz,Samuel Bustamante,Corona Metal Ceramica,"45, 19, 23",C4,Duratone,False,Revisar oclusión.,2024-10-19,2024-10-26,,True
+977,Dra. Clara Inés Duque,Esteban Zuluaga,Paula Andrea Díaz,Corona Totalmente Ceramica,"18, 45",BL1,Biodent,True,Revisar oclusión.,2025-02-15,2025-02-22,2025-03-01,False
+978,Clínica Dental del Norte,María Fernanda Ortiz,David Zuluaga,Perno,"30, 40, 13, 13",N/A,N/A,False,Procedimiento rutinario.,2024-06-15,2024-06-24,2024-06-28,False
+979,Centro Odontológico Integral,Ana María Pérez,Catalina Rendón,Corona Totalmente Ceramica,"40, 37, 36, 20",BL1,Vitapan,True,Procedimiento rutinario.,2025-01-27,2025-02-04,2025-02-05,False
+980,Dr. Miguel Ángel Sierra,Carlos López,Emmanuel Franco,Corona Metal Ceramica,"32, 40, 36",A3,Duratone,False,Requiere ajuste.,2024-06-13,2024-06-23,,True
+981,DentistPro,Andrés Felipe Castro,Martín Quintero,Provisional,"37, 16, 22, 30",A3,Vita 3D Master,False,Paciente sensible.,2025-05-15,2025-05-17,,True
+982,Sonrisas Sanas,Daniela Marín,Valeria Alejandra Gil,Corona Totalmente Ceramica,"31, 25, 44",A2,Vita 3D Master,False,Requiere ajuste.,2024-06-17,2024-06-26,2024-07-01,False
+983,Centro Odontológico Integral,Valeria Duque,Julian Alberto Cano,Perno,"19, 37",N/A,N/A,True,Procedimiento rutinario.,2025-01-28,2025-02-01,,True
+984,Implantes Dentales Medellín,Sofía Vargas,Valentina Ospina,Placa de Bruxismo,Superior e Inferior,N/A,N/A,True,Procedimiento rutinario.,2024-11-26,2024-12-06,,True
+985,Ortodoncia Plus,José Luis Cardona,Martín Quintero,Hyrax,Superior e Inferior,N/A,N/A,False,Requiere ajuste.,2024-06-16,2024-06-20,2024-06-27,False
+986,Natalia Soto,Ana María Pérez,Valentina Ospina,Aparatos Funcionales de Odontopediatría Frankel 2,Inferior,N/A,N/A,False,Requiere ajuste.,2025-05-18,2025-05-26,,True
+987,Clínica Odontológica del Sur,Liliana Cifuentes,Sebastián Duque,Aparatos Funcionales de Odontopediatría Frankel 2,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-11-28,2024-12-07,,True
+988,Dr. Mauricio Restrepo,Fernando Quintero,Gabriela Morales,Corona sobre Implante con Pilar Titanio,"11, 30",C3,Vita 3D Master,True,Procedimiento rutinario.,2025-03-20,2025-03-26,,True
+989,Sonrisas Sanas,Fernando Quintero,Carolina Rivera,Protesis Removible,"39, 23, 40",A4,Biodent,False,Procedimiento rutinario.,2025-02-06,2025-02-11,2025-02-18,False
+990,Dra. Liliana Cifuentes,Pablo Escobar,Arturo Montoya,Hyrax,Superior,N/A,N/A,True,Requiere ajuste.,2024-08-31,2024-09-03,,True
+991,Maxilofacial & Implantes,Valentina Cano,Nicolás Castro,Aparatos Funcionales de Odontopediatría Bionator,Superior e Inferior,N/A,N/A,True,Alta estética.,2024-08-07,2024-08-09,2024-08-10,False
+992,Juan José Correa,Ricardo Pérez,José Miguel Soto,Corona sobre Implante con T-base,"22, 20",B3,Duratone,True,Procedimiento rutinario.,2024-11-15,2024-11-21,,True
+993,Clínica Dental Sonríe,Diego Salazar,Andrea Gómez,Protesis Removible,"21, 39, 36, 29",OM3,Vitapan,True,Requiere ajuste.,2024-07-23,2024-07-31,2024-08-01,False
+994,Dra. Liliana Cifuentes,Andrea Giraldo,Carolina Rivera,Perno,"39, 31, 39, 38",N/A,N/A,False,Revisar oclusión.,2024-09-15,2024-09-17,2024-09-20,False
+995,Dr. Fernando Quintero,Juan José Correa,Laura Giraldo,Aparatos Funcionales de Odontopediatría Frankel 1,Inferior,N/A,N/A,False,Procedimiento rutinario.,2024-12-25,2024-12-30,,True
+996,Dra. Sofía Vargas,Diana Marcela Ríos,Luisa Fernanda Echeverri,Guia Quirurgica,Superior e Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-01-23,2025-01-30,2025-02-06,False
+997,Estética Dental Premium,Jorge Alberto Ruiz,Juan David Restrepo,Corona Metal Ceramica,"15, 48",C3,Vitapan,False,Paciente sensible.,2025-05-12,2025-05-19,,True
+998,Dra. Clara Inés Duque,Isabella Sierra,Natalia Andrea Vélez,Placa de Bruxismo,Inferior,N/A,N/A,False,Procedimiento rutinario.,2025-02-06,2025-02-16,2025-02-21,False
+999,David Ospina,Carlos López,Emmanuel Franco,Protesis Removible,"16, 27, 22, 26",D2,Vitapan,False,Revisar oclusión.,2024-10-28,2024-11-04,2024-11-11,False
+1000,Diana Marcela Ríos,Juan José Correa,Andrés Felipe Marulanda,Placa Estetica,"14, 31, 25",A3.5,Vita 3D Master,False,Paciente sensible.,2024-11-29,2024-12-03,,True
