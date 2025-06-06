@@ -4,7 +4,7 @@ from flask_cors import CORS
 from noteBook.generadorGraficas import view_path, ordenes_trabajo_por_periodo, trabajos_mas_solicitados, tiempo_entrega_por_clase_trabajo, porcentaje_entrega_final, clinicas_mayor_volumen, odontologos_mayor_volumen, clases_trabajo_por_clinica
 
 app = Flask(__name__)
-CORS(app, resources={r"/api/*": {"origins": "http://127.0.0.1:5500"}})
+CORS(app, resources={r"/api/*": {"origins": "*"}})  # Enable CORS for all API routes
 
 
 @app.route('/api/csv', methods=['GET'])
