@@ -97,8 +97,6 @@ def tiempo_entrega_por_clase_trabajo():
     
     return chart_data
 
-
-
 #4. ¿Qué porcentaje de órdenes no tiene una fecha de entrega final especificada (noDeliveryDate es True) torta de con fecha vs sin fecha?
 def porcentaje_entrega_final():
     colors = ['#ff9999','#66b3ff']
@@ -167,8 +165,9 @@ def odontologos_mayor_volumen():
         .value_counts()
         .head(10)
         .reset_index()
-        .rename(columns={'index': 'dentistNameId', 'dentistNameId': 'numero_ordenes'})
     )
+    
+    odontologos_volumen.columns = ['dentistNameId', 'numero_ordenes']
 
     chart_data = {
         "labels": odontologos_volumen['dentistNameId'].astype(str).tolist(),
@@ -186,8 +185,6 @@ def odontologos_mayor_volumen():
     }
 
     return chart_data
-
-
 
 #7. ¿Cuál es la distribución de las 5 mayores clases de trabajo por las 5 clínicas principal?
 def clases_trabajo_por_clinica():
