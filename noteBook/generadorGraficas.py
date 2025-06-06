@@ -126,18 +126,19 @@ def porcentaje_entrega_final():
     
     return chart_data
 
-
-#5. ¿Cuáles son las 10 clínicas (companyNameId) que generan el mayor volumen de trabajo?
+# 5. ¿Cuáles son las 10 clínicas (companyNameId) que generan el mayor volumen de trabajo?
 def clinicas_mayor_volumen():
     dataFrame = dataFrameOralsuite.copy()
+    
     # Contar órdenes por clínica y tomar las 10 principales
     clinicas_volumen = (
         dataFrame['companyNameId']
         .value_counts()
         .head(10)
         .reset_index()
-        .rename(columns={'index': 'companyNameId', 'companyNameId': 'numero_ordenes'})
     )
+    # Aquí la columna 0 es el index (los IDs de clínica) y la columna 1 es el número de órdenes
+    clinicas_volumen.columns = ['companyNameId', 'numero_ordenes']
 
     # Preparar estructura para Chart.js (tipo línea)
     chart_data = {
